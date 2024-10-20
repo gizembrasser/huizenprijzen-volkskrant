@@ -11,16 +11,23 @@ import time
 # Set Chrome options
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument("--no-sandbox")
-chrome_options.add_argument("--headless=new")
+# chrome_options.add_argument("--headless=new")
 chrome_options.add_argument("log-level=3")
 chrome_options.add_argument("--disable-dev-shm-usage")
 chrome_options.add_argument("--start-maximized")
 chrome_options.add_argument("--disable-search-engine-choice-screen")
 
+# Disable SSL verification in Selenium Wire
+seleniumwire_options = {'verify_ssl': False}
+
 driver_path = os.path.join(os.getcwd(), "driver", "chromedriver.exe")
 
 # driver = webdriver.Chrome(service=Service(driver_path), options=chrome_options)
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+driver = webdriver.Chrome(
+    service=Service(ChromeDriverManager().install()),
+    options=chrome_options,
+    seleniumwire_options=seleniumwire_options
+)
 
 wait = WebDriverWait(driver, 10)
 
@@ -46,7 +53,7 @@ def next_page(driver):
         return False
 
 
-def collect_links(driver):
+def collect_links(driver, links_file_path):
     """Function to collect all links from the listing pages."""
     all_links = []
 
@@ -68,7 +75,12 @@ def collect_links(driver):
             print(f"Error collecting links: {e}")
             break
 
-    return all_links
+    # Save the collected links
+    with open(links_file_path, mode="w") as file:
+        for link in all_links:
+            file.write(link + "\n")
+    
+    print(f"Collected {len(all_links)} links and saved to data/links.txt")
 
 
 def safe_find(driver, by, value, sub_by=None, sub_value=None):
@@ -86,9 +98,10 @@ def safe_find(driver, by, value, sub_by=None, sub_value=None):
         return None
 
 
-def visit_links(driver, links):
+def visit_links(driver, links_file_path, csv_file_path):
     """Visit each link and collect details into CSV."""
-    csv_file_path = os.path.join(os.getcwd(), 'data/pararius_listings.csv')
+    with open(links_file_path, mode="r") as file:
+        links = [line.strip() for line in file.readlines()]
 
     # Open the CSV file for writing
     with open(csv_file_path, mode='w', newline='', encoding='utf-8') as file:
@@ -96,8 +109,9 @@ def visit_links(driver, links):
         writer.writerow(['Link', 'Huurprijs', 'Locatie', 'm2', 'Huurovereenkomst', 'Beschrijving'])
 
         # Loop through each link and extract details
-        for link in links:
+        for index, link in enumerate(links, start=1):
             try:
+                print(f"Visiting link {index}: {link}")
                 driver.get(link)
                 time.sleep(2)
                 
@@ -121,17 +135,3 @@ def visit_links(driver, links):
 
             except Exception as e:
                 print(f"Error visiting link: {link}, {e}")
-
-
-# Main script
-driver.get("https://www.pararius.com/apartments/nederland")
-
-accept_cookies(driver)
-
-# Collecting links and visiting them
-all_links = collect_links(driver)
-visit_links(driver, all_links)
-
-print("Data collected and written to data/pararius_listings.csv")
-
-driver.quit()
