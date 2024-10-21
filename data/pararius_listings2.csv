@@ -1,7 +1,7 @@
-Link,Huurprijs,Locatie,m2,Kamers,Interieur,Huurovereenkomst,Badkamers,Faciliteiten,Balkon,Tuin,Energie label,Opslag,Parkeren,Type parkeerplaats,Garage,Beschrijving
+Link,Huurprijs,Locatie,m2,Kamers,Interieur,Huurovereenkomst,Badkamers,Faciliteiten,Balkon,Tuin,Omschrijving tuin,Energie label,Opslag,Parkeren,Type parkeerplaats,Garage,Beschrijving
 https://www.pararius.com/apartment-for-rent/amsterdam/ba48f613/prinsengracht,"€2,450 per month",1016 HL (Grachtengordel-West),65 m²,2 rooms,Furnished,Unlimited period,2,"Bath
 Shower
-Toilet",Not present,Not present,D,Not present,No,,No,"Description
+Toilet",Not present,Not present,,D,Not present,No,,No,"Description
 !! WATCH THE VIDEO !!
 Interested in a viewing? Please send us a brief, motivating message with relevant details (such as your job, salary, etc.) and a short introduction about yourself. For a quicker response, complete the search profile on the estate agent’s website.
 Introduction
@@ -19,10 +19,10 @@ Rental Period: Minimum one year, with an unlimited contract.
 Suitability: Ideal for a single person or a couple. Not suitable for sharing.
 Pets: Not allowed."
 https://www.pararius.com/house-for-rent/beek-lb/75724d3f/smedestraat,"€1,250 per month",6191 TN (Beek),108 m²,7 rooms,,,,"Cable TV
-Mechanical ventilation",Not present,Present,D,Present,Yes,On private land,No,"Description
+Mechanical ventilation",Not present,Present,achtertuin,D,Present,Yes,On private land,No,"Description
 Charming house with garden for rent in Beek with 3 bedrooms in the Beek district."
 https://www.pararius.com/house-for-rent/groningen/8df19177/briljantstraat,€600 per month,9743 NE (Vinkhuizen-Noord),131 m²,6 rooms,Shell,,1,"Internet connection
 Shower
 Skylight
-Toilet",Not present,Present,,Present,Yes,Public,,"Description
+Toilet",Not present,Present,tuin rondom,,Present,Yes,Public,,"Description
 Conveniently located house with garden for rent in Groningen with 6 bedrooms in the Vinkhuizen-Noord district."
