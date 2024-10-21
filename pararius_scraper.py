@@ -80,7 +80,7 @@ def collect_links(driver, links_file_path):
         for link in all_links:
             file.write(link + "\n")
     
-    print(f"Collected {len(all_links)} links and saved to data/links.txt")
+    print(f"Collected {len(all_links)} links and saved to data/{links_file_path}")
 
 
 def safe_find(driver, by, value, sub_by=None, sub_value=None):
@@ -106,7 +106,7 @@ def visit_links(driver, links_file_path, csv_file_path):
     # Open the CSV file for writing
     with open(csv_file_path, mode='w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
-        writer.writerow(['Link', 'Huurprijs', 'Locatie', 'm2', 'Kamers', 'Interieur', 'Huurovereenkomst', 'Badkamers', 'Balkon', 'Tuin', 'Energie label', 'Opslag', 'Parkeren', 'Garage', 'Beschrijving'])
+        writer.writerow(['Link', 'Huurprijs', 'Locatie', 'm2', 'Kamers', 'Interieur', 'Huurovereenkomst', 'Badkamers', 'Faciliteiten', 'Balkon', 'Tuin', 'Energie label', 'Opslag', 'Parkeren', 'Type parkeerplaats', 'Garage', 'Beschrijving'])
 
         # Loop through each link and extract details
         for index, link in enumerate(links, start=1):
@@ -124,7 +124,7 @@ def visit_links(driver, links_file_path, csv_file_path):
                 except Exception:
                     pass
 
-                # Use the safe_find helper to get elements or return empty strings
+                # Use the safe_find helper to get elements or return None
                 price = safe_find(driver, By.CLASS_NAME, "listing-detail-summary__price-main")
                 location = safe_find(driver, By.CLASS_NAME, "listing-detail-summary__location")
                 size = safe_find(driver, By.CLASS_NAME, "illustrated-features__item--surface-area")
@@ -132,15 +132,17 @@ def visit_links(driver, links_file_path, csv_file_path):
                 interior = safe_find(driver, By.CLASS_NAME, "illustrated-features__item--interior")
                 rental_type = safe_find(driver, By.CLASS_NAME, "listing-features__description--contract_duration", By.CLASS_NAME, "listing-features__main-description")
                 bathrooms = safe_find(driver, By.CLASS_NAME, "listing-features__description--number_of_bathrooms", By.CLASS_NAME, "listing-features__main-description")
+                facilities = safe_find(driver, By.CLASS_NAME, "listing-features__description--facilities", By.CLASS_NAME, "listing-features__main-description")
                 balcony = safe_find(driver, By.CLASS_NAME, "listing-features__description--balcony", By.CLASS_NAME, "listing-features__main-description")
                 garden = safe_find(driver, By.CLASS_NAME, "listing-features__description--garden", By.CLASS_NAME, "listing-features__main-description")
                 energy = safe_find(driver, By.XPATH, "//*[contains(@class, 'listing-features__description--energy-label')]", By.CLASS_NAME, "listing-features__main-description")
                 storage = safe_find(driver, By.CLASS_NAME, "listing-features__description--storage", By.CLASS_NAME, "listing-features__main-description")
                 parking = safe_find(driver, By.CLASS_NAME, "page__details--parking", By.CLASS_NAME, "listing-features__main-description")
+                parking_type = safe_find(driver, By.CLASS_NAME, "page__details--parking", By.CLASS_NAME, "listing-features__description--type")
                 garage = safe_find(driver, By.CLASS_NAME, "page__details--garage", By.CLASS_NAME, "listing-features__main-description")
                 description = safe_find(driver, By.CLASS_NAME, "listing-detail-description__additional")
 
-                writer.writerow([link, price, location, size, rooms, interior, rental_type, bathrooms, balcony, garden, energy, storage, parking, garage, description])
+                writer.writerow([link, price, location, size, rooms, interior, rental_type, bathrooms, facilities, balcony, garden, energy, storage, parking, parking_type, garage, description])
 
             except Exception as e:
                 print(f"Error visiting link: {link}, {e}")
