@@ -22,12 +22,12 @@ seleniumwire_options = {'verify_ssl': False}
 
 driver_path = os.path.join(os.getcwd(), "driver", "chromedriver.exe")
 
-driver = webdriver.Chrome(service=Service(driver_path), options=chrome_options)
-# driver = webdriver.Chrome(
-#     service=Service(ChromeDriverManager().install()),
-#     options=chrome_options,
-#     seleniumwire_options=seleniumwire_options
-# )
+# driver = webdriver.Chrome(service=Service(driver_path), options=chrome_options)
+driver = webdriver.Chrome(
+    service=Service(ChromeDriverManager().install()),
+    options=chrome_options,
+    seleniumwire_options=seleniumwire_options
+)
 
 wait = WebDriverWait(driver, 10)
 

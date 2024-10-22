@@ -5,7 +5,7 @@ data_folder = os.path.join(os.getcwd(), 'data')
 if not os.path.exists(data_folder):
     os.makedirs(data_folder)
 
-links_file_path = os.path.join(data_folder, 'test.txt')
+links_file_path = os.path.join(data_folder, 'pararius_links.txt')
 csv_file_path = os.path.join(data_folder, 'pararius_listings2.csv')
 
 driver.get("https://www.pararius.com/apartments/nederland")
