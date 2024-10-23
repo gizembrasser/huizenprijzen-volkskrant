@@ -1,0 +1,11 @@
+pipelines:
+  scheduled:
+    - cron: "0 17 * * 5"   # Cron expression for Friday at 17:00 UTC
+      step:
+        name: "Run Python Script"
+        image: python:3.9   # Use the desired Python version
+        caches:
+          - pip             # Cache pip dependencies
+        script:
+          - pip install -r requirements.txt  # Install dependencies
+          - python main.py                   # Run your Python script
