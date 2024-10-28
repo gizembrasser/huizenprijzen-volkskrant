@@ -1,4 +1,4 @@
-Link,Huurprijs,Locatie,m2,Kamers,Interieur,Huurovereenkomst,Type woning,Bouwjaar,Badkamers,Faciliteiten,Balkon,Tuin,Omschrijving tuin,Energie label,Opslag,Parkeren,Type parkeerplaats,Garage,Beschrijving,Verzoek,Tuin m2,Buurt,Stad,Gemiddelde WOZ,Punten oppervlakte,Punten sanitair,Punten buitenruimten,Punten energie,Punten WOZ,COROP,Punten totaal,Punten WOZ max
+Link,Huurprijs,Locatie,m2,Kamers,Interieur,Huurovereenkomst,Type woning,Bouwjaar,Badkamers,Faciliteiten,Balkon,Tuin,Omschrijving tuin,Energie label,Opslag,Parkeren,Type parkeerplaats,Garage,Beschrijving,Verzoek,Tuin m2,Buurt,Stad,Gemiddelde WOZ,Punten oppervlakte,Punten sanitair,Punten buitenruimten,Punten energie,Punten WOZ,COROP,Punten,Punten WOZ max
 https://www.pararius.com/apartment-for-rent/heerlen/68306638/leenheerstraat,900.0,6411 TS,77.0,4,Shell,Unlimited period,,1930.0,1.0,,Not present,Not present,,G,Not present,No,,No,"Description
 Start your better living with this stunning 3-bedroom apartment that offers the perfect blend of space, lighting, and convenience. This safe and spacious apartment is waiting for you to make it the ideal place for your family.
 KEY FEATURES
@@ -12,7 +12,7 @@ Office Fee: €450
 Security deposit: €1,250
 ADDITIONAL INFORMATION:
 The information and dimensions of this property have been compiled with care but may differ from reality. No rights can be derived from this information.
-Ready to experience a better living? Make your next move with us!",False,,Eikenderveld,heerlen,159000.0,72.1875,4.0,-5.0,-15,19.017183689672773,False,75.2,19.017183689672773
+Ready to experience a better living? Make your next move with us!",False,,Eikenderveld,heerlen,159000.0,72.1875,10.0,-5.0,-15,19.017183689672773,False,81.2,19.017183689672773
 https://www.pararius.com/house-for-rent/bocholtz/5438859a/de-baan,900.0,6351 BK,110.0,5,Shell,Unlimited period,,1975.0,1.0,,Not present,Present (located on the south),,C,Not present,No,,No,"Description
 Start your better living with this stunning 4-bedroom family house that offers the perfect blend of space, lighting, and convenience. This safe and spacious house is waiting for you to make it the ideal place for your family.
 KEY FEATURES
@@ -51,7 +51,7 @@ Special features:
 123Wonen Leiden acts as a rental agent for the owner of this accommodation. So no agency fees apply for this object. Can you find this offer on a website other than ******? Check out our own website for the current offer: ******
 Tip us a landlord and if 123Wonen is allowed to act as a rental agent there, you will receive € 100.00 as a thank you after a successful mediation.
 Registration and conditions see ******
-For more information or a non-binding viewing, we cordially invite you to contact ******",False,,Boulevard,noordwijk zh,680000.0,40.3125,4.0,0.0,-9,115.05656545140653,False,84.93,49.62179159896416
+For more information or a non-binding viewing, we cordially invite you to contact ******",False,,Boulevard,noordwijk zh,680000.0,40.3125,10.0,0.0,-9,115.05656545140653,False,92.91,51.601791598964155
 https://www.pararius.com/apartment-for-rent/rotterdam/5cb26bcd/van-malsenstraat,949.0,3074 PX,47.0,3,Upholstered,,,1926.0,1.0,,Not present,Not present,,,,No,,,"Description
 Charming 3-room apartment available, located in the Feijenoord district! Ideal location in relation to the city center, public transport, shopping facilities, and bars and restaurants. If you're curious to see if this could become your new ""home,"" submit a pre-registration. The apartment is perfectly suited for a starter (the property is not suitable for more occupants).
 LAY-OUT: Entrance at street level, leading to the communal area. You take the stairs to the 1st floor, where the apartment is located. Front door, entrance into the hallway where the separate toilet is located. Living room of approximately 28 m². Open kitchen equipped with a hob, fridge, extractor fan, combination oven, and dishwasher. Two bedrooms of approximately 13 m² and 5 m². Bathroom featuring a shower and washbasin.
@@ -73,7 +73,7 @@ RENTAL CONDITIONS:
 Alleen bij Rotterdam: - Parking permit: please see here (******) more information about the -possible- waiting list regarding the parking residents permit
 REQUIREMENTS:
 See under the tab ""rental conditions"" which documents are required for renting this property.
-* No legal rights can be derived from the above text",False,,Hillesluis,rotterdam,216000.0,44.0625,4.0,-5.0,-15,34.06875406485181,False,48.57,20.5033138414011
+* No legal rights can be derived from the above text",False,,Hillesluis,rotterdam,216000.0,44.0625,14.0,-5.0,-15,34.06875406485181,False,61.87,23.8033138414011
 https://www.pararius.com/apartment-for-rent/harderwijk/409a46db/jan-luykenlaan,1080.0,3842 LP,45.0,2,,,,2021.0,1.0,,,Not present,,A++,,,,No,"Description
 Nice apartment for rent in Harderwijk with 1 bedroom in the Stadsdennen Noord district.",False,,Stadsdennen Noord,harderwijk,319000.0,42.1875,4.0,0.0,52,51.9558466763707,False,147.73,49.54730440320233
 https://www.pararius.com/apartment-for-rent/groningen/7eeee568/breitnerstraat,1050.0,9718 ML,28.0,2,Furnished,Temporary rental,,1993.0,1.0,,Not present,,,A++,,,,,"Description
@@ -108,7 +108,7 @@ Deposit is approx. 1x all-in rent
 Income requirement is approx. 3.5x all-in rent
 This residence is offered with a short-stay contract. Initially, the residences of Canisiushof are reserved for exchange students, expats, and working professionals who need an urgent temporary housing solution (i.e. due to home renovation, home sale, relationship problems, internship, or temporary work in or around Nijmegen). If you are already living in - or around - Nijmegen, you probably do not meet the conditions to book this residence with a short-stay contract. Note that you cannot rent a short-stay residence if you have been a tenant of Holland2Stay before.
 VIEWINGS
-Want more information about this property or do you want to book a viewing? Contact us!",False,,Hunnerberg,nijmegen,601000.0,31.875,8.0,-5.0,55,118.18982789622399,False,158.54,68.66139320575392
+Want more information about this property or do you want to book a viewing? Contact us!",False,,Hunnerberg,nijmegen,601000.0,31.875,14.0,-5.0,55,118.18982789622399,False,166.52,70.64139320575391
 https://www.pararius.com/apartment-for-rent/rotterdam/8faf03b0/beukelsdijk,885.0,3021 AK,60.0,2,Upholstered,,,1920.0,1.0,,Not present,Not present,,,,No,,,"Description
 Charming 2-room apartment available, very well-connected with many amenities nearby. Located within walking distance of Rotterdam city center and Rotterdam Central Station, making it the perfect location. Additionally, the nearest main road is just a 3-minute drive away. Ideal apartment for a starter!
 LAY-OUT: Entrance at street level, leading to the communal area. You take the stairs to the 1st floor where the apartment is located. Front door, entrance into the hallway from which all rooms are accessible. Living room of approximately 28 m². Separate kitchen of approximately 8 m², equipped with a gas stove and extractor fan. Spacious bedroom of approximately 19 m². The bathroom features a shower and washbasin. The toilet is separate.
@@ -131,7 +131,7 @@ o OR Lease term: maximum of two years
 Alleen bij Rotterdam: - Parking permit: please see here (******) more information about the -possible- waiting list regarding the parking residents permit
 REQUIREMENTS:
 See under the tab ""rental conditions"" which documents are required for renting this property.
-* No legal rights can be derived from the above text",False,,Middelland,rotterdam,376000.0,56.25,4.0,-5.0,-15,52.36535662299855,False,70.81,30.563067685589523
+* No legal rights can be derived from the above text",False,,Middelland,rotterdam,376000.0,56.25,14.0,-5.0,-15,52.36535662299855,False,84.11,33.86306768558952
 https://www.pararius.com/apartment-for-rent/den-haag/7f6a1bc8/haagsestraat,1142.0,2587 TJ,74.0,3,Upholstered,,,1918.0,1.0,,Present,Not present,,C,,No,,,"Description
 Located in the beautiful Belgisch Park, this charming 3-room apartment is available. The popular Scheveningen beach is nearby, as well as the Scheveningse Bosjes, perfect for a lovely summer walk! The apartment features a balcony and is within walking distance of the shops on Gentsestraat, ample public transport, and the German and French schools. By bike, you can reach Frederik Hendriklaan with all its shops, delicatessens, and restaurants in just 5 minutes. In short, it's a perfect apartment for a couple and beach lovers!
 LAY-OUT: Entrance at street level, leading to the communal area. You take the stairs to the 2nd floor where the apartment is located. Front door, entrance to the living room en-suite of approximately 41 m², which is separated by sliding doors. From the dining room, you have access to the rear-facing balcony through French doors. Semi-open kitchen of approximately 10 m², equipped with a hob, fridge, freezer, extractor fan, oven, and dishwasher. Bedroom of approximately 8 m². The bathroom features a shower and washbasin. The toilet is separate.
@@ -152,7 +152,7 @@ RENTAL CONDITIONS:
 - No pets allowed
 REQUIREMENTS:
 See under the tab ""rental conditions"" which documents are required for renting this property.
-* No legal rights can be derived from the above text",False,,Belgisch Park,den haag,504000.0,69.375,4.0,0.0,22,63.74153192493804,False,147.88,52.50845553522956
+* No legal rights can be derived from the above text",False,,Belgisch Park,den haag,504000.0,69.375,14.0,2.0,22,63.74153192493804,False,163.84,56.46845553522956
 https://www.pararius.com/room-for-rent/maastricht/d93602bb/parallelweg,995.0,6221 BD,44.0,2,Upholstered,Unlimited period,,0.0,1.0,Shower,Not present,Not present,,,Not present,No,,No,"Description
 Completely renovated trendy studio located in front of the central station of Maastricht.
 In a former police office a total of 19 trendy studios have been realized, each with its own authentic features and hip style.
@@ -177,7 +177,7 @@ Extra information:
 - Shared bicycleshed
 - Shared washingmachine/dryer
 General info:
-Within walking distance of the trendy Wyck where many restaurants with their home made / regional products are located also nice pop-up stores with handmade clothing.",False,,Wyck,maastricht,402000.0,41.25,8.0,-5.0,0,66.89678443826915,False,80.93,36.67843886462882
+Within walking distance of the trendy Wyck where many restaurants with their home made / regional products are located also nice pop-up stores with handmade clothing.",False,,Wyck,maastricht,402000.0,41.25,14.0,-5.0,0,66.89678443826915,False,88.91,38.65843886462882
 https://www.pararius.com/apartment-for-rent/geleen/b0fe8a8e/markt,995.0,6161 GJ,85.0,3,Upholstered,Unlimited period,,1978.0,1.0,,Not present,Not present,,C,Not present,No,,No,"Description
 Lovely apartment for rent in Geleen with 2 bedrooms in the Geleen-Centrum district.",False,,Geleen-Centrum,geleen,196000.0,79.6875,4.0,-5.0,22,23.069355253018237,False,123.76,23.069355253018237
 https://www.pararius.com/house-for-rent/scheemda/88b66845/dollardlaan,950.0,9679 CW,110.0,4,Shell,Unlimited period,,1990.0,1.0,,Not present,Present (35 m²),,A,Not present,Yes,Public,No,"Description
@@ -206,7 +206,7 @@ pets and children are not allowed
 Fully upholstered and with pvc laminate flooring and blinds for the windows.
 This unfurnished studio is available from 01-12-2024 for an indefinite period, minimum 1 year.
 The deposit is 2 months.
-The rent is 995,- euro including service costs and water. Excluding heat, electricity and internet/tv.",False,28.0,Kruidenwijk Zuid,almere,355000.0,25.3125,4.0,11.799999999999999,49,81.4154940967168,False,146.72,56.60423805191654
+The rent is 995,- euro including service costs and water. Excluding heat, electricity and internet/tv.",False,28.0,Kruidenwijk Zuid,almere,355000.0,25.3125,14.0,11.799999999999999,49,81.4154940967168,False,160.02,59.90423805191654
 https://www.pararius.com/apartment-for-rent/meerssen/f769c540/stationstraat,995.0,6231 CK,90.0,2,Upholstered,Unlimited period,,1990.0,1.0,Shower,Present,,,D,,Yes,,,"Description
 Surprisingly spacious appartment located in the centre of Meerssen. Ideally located to shops, other facilities and arterial roads in various directions.
 Available for one household.
@@ -223,7 +223,7 @@ Additional information:
 - Parking in the neighbourhood is possible with a permit
 - No pets allowed
 General information:
-The property is located in a very good location in Meerssen. Meerssen is located approximately 6 kilometres from the centre of Maastricht with good connections to all directions (slip road A2 and A79, train connections to Maastricht, Eindhoven and Heerlen and various bus connections. Maastricht-Aachen Airport is also in the immediate vicinity.",False,,Meerssen,meerssen,351000.0,84.375,8.0,0.0,14,41.03056768558952,False,147.41,41.03056768558952
+The property is located in a very good location in Meerssen. Meerssen is located approximately 6 kilometres from the centre of Maastricht with good connections to all directions (slip road A2 and A79, train connections to Maastricht, Eindhoven and Heerlen and various bus connections. Maastricht-Aachen Airport is also in the immediate vicinity.",False,,Meerssen,meerssen,351000.0,84.375,14.0,2.0,14,41.03056768558952,False,155.41,41.03056768558952
 https://www.pararius.com/house-for-rent/tilburg/fe80e5f2/scharwoudestraat,1150.0,5035 LN,52.0,2,Upholstered,,,2016.0,1.0,,,Present (30 m²),,A,,,,No,"Description
 Description
 123Wonen Tilburg, The rental agent offers;
@@ -238,7 +238,7 @@ Feel free to contact us for a free visit. Mail to ******
 Always look on our website ****** for our current offers.
 At 123Wonen you can directly sign up for free and unlimited house search",False,30.0,Dalem Zuid II,tilburg,368000.0,48.75,4.0,12.5,41,55.90359422237152,False,159.76,53.5106860933826
 https://www.pararius.com/apartment-for-rent/ede/b1135bb6/klinkenbergerweg,1100.0,6711 ML,76.0,3,Upholstered,Unlimited period,,1996.0,1.0,,Present,Not present,,A,Not present,No,,No,"Description
-Beautiful apartment with balcony for rent in Ede with 2 bedrooms in the Centrum Ede district.",False,,Centrum Ede,ede,266000.0,71.25,4.0,0.0,41,33.28384279475983,False,149.53,33.28384279475983
+Beautiful apartment with balcony for rent in Ede with 2 bedrooms in the Centrum Ede district.",False,,Centrum Ede,ede,266000.0,71.25,4.0,2.0,41,33.28384279475983,False,151.53,33.28384279475983
 https://www.pararius.com/apartment-for-rent/delft/c28b7375/arthur-van-schendelplein,1060.0,2624 CT,94.0,4,Upholstered,,,1969.0,1.0,,Not present,Not present,,C,Present,Yes,Public,No,"Description
 Are you interested in renting this property?
 We ask you to send an email (******) to express your interest. In this email, we ask you to provide information about your current situation, such as your family, your financial situation and the reason you are looking for a new rental home.
@@ -271,9 +271,9 @@ For self-employed persons: extract from Chamber of Commerce, profit and loss acc
 Are you currently already renting a home? Then we would also like to receive a landlord statement
 Do you currently own a home for sale? Then we would also like to receive a statement from the mortgage holder, possibly a deed of sale and the annual statement of your mortgage for the past year.
 Statement from UWV about working past and most recent income, available with your DigiD-code.
-If the owner confirms the deal we will draft a rental contract (Model Council of Immovable goods: ******) We present you a concept via email and schedule an appointment for signing the contract and also an appointment for inspection of your new home. We will inspect the place together with you and if all is well you receive the key.",False,,Voorhof-Hoogbouw,delft,228000.0,88.125,4.0,-5.0,22,25.591842423116233,False,134.72,25.591842423116233
+If the owner confirms the deal we will draft a rental contract (Model Council of Immovable goods: ******) We present you a concept via email and schedule an appointment for signing the contract and also an appointment for inspection of your new home. We will inspect the place together with you and if all is well you receive the key.",False,,Voorhof-Hoogbouw,delft,228000.0,88.125,14.0,-5.0,22,25.591842423116233,False,144.72,25.591842423116233
 https://www.pararius.com/apartment-for-rent/panningen/7947b4a5/ringovenstraat,1068.0,5981 AK,114.0,4,Shell,Unlimited period,,2010.0,1.0,,Present,Not present,,A,Present,No,,No,"Description
-Charming apartment with balcony for rent in Panningen with 3 bedrooms in the Panningen district.",False,,Panningen,panningen,310000.0,106.875,4.0,0.0,41,32.87466482800889,False,184.75,32.87466482800889
+Charming apartment with balcony for rent in Panningen with 3 bedrooms in the Panningen district.",False,,Panningen,panningen,310000.0,106.875,4.0,2.0,41,32.87466482800889,False,186.75,32.87466482800889
 https://www.pararius.com/apartment-for-rent/enschede/dc20aaa5/steenweg,904.0,7531 BW,22.0,2,Upholstered,Unlimited period,,1924.0,1.0,,Not present,Not present,,,Present,Yes,Public,No,"Description
 Steenweg, 't Ribbelt, Enschede € 904,48 including g/w/e, service costs and internet.
 This newly renovated studio on the Steenweg above a daycare center is available. The studio is located in a quiet neighborhood. The University and the center of Enschede are a 10-minute drive away.
@@ -291,9 +291,9 @@ This ground floor apartment is within walking distance of various shops. Easily 
 Rental details:
 The monthly rent excl. GWE is € 1000,-
 Deposit is a one-off € 1500,-
-We work in accordance with the Pararius allocation protocol. More information can be found via this link: ******.",False,,De Dem en omgeving,hoensbroek,183000.0,117.1875,8.0,0.0,-15,18.393013100436683,False,128.58,18.393013100436683
+We work in accordance with the Pararius allocation protocol. More information can be found via this link: ******.",False,,De Dem en omgeving,hoensbroek,183000.0,117.1875,14.0,0.0,-15,18.393013100436683,False,134.58,18.393013100436683
 https://www.pararius.com/apartment-for-rent/rotterdam/2ab7e7b2/zandblokstraat,930.0,3083 MZ,65.0,4,Shell,,,1939.0,1.0,,Present,Not present,,A,,No,,,"Description
-Beautiful apartment with balcony for rent in Rotterdam with 1 bedroom in the Carnisse district.",False,,Carnisse,rotterdam,178000.0,60.9375,4.0,0.0,41,23.95834732952637,False,129.9,23.95834732952637
+Beautiful apartment with balcony for rent in Rotterdam with 1 bedroom in the Carnisse district.",False,,Carnisse,rotterdam,178000.0,60.9375,4.0,2.0,41,23.95834732952637,False,131.9,23.95834732952637
 https://www.pararius.com/apartment-for-rent/utrecht/da77c6b2/adenauerlaan,920.0,3527 RA,50.0,2,Furnished,Unlimited period,,1960.0,1.0,,Present,Present,,A,Present,Yes,Public,No,"Description
 !!ONLY RESPOND THROUGH THE AD, THROUGH THE MAIL AND BY PHONE REQUESTS WILL NOT BE CONSIDERED!!!
 Beautifully renovated flat near Utrecht city centre!
@@ -309,11 +309,11 @@ Energy label A
 The property: This renovated house in Utrecht is a perfect combination of tranquillity and all the pluses of the city at your fingertips. The flat is located on the top floor and features a cosy living room with velvet sofa and dining table where you can have a nice dinner with friends and family. Adjacent to the living room is the balcony which offers great views over the city. From the hallway you enter the modern kitchen with all amenities, such as a dishwasher, fridge with freezer and large hob with built-in oven. The bedroom has a double bed and a large wardrobe. Also located here is the bathroom, which features a modern walk-in shower, toilet and large sink.
 Location: This beautiful flat is located in the north of Kanaleneiland, so you'll be on the terrace in the city centre in no time. Utrecht Central Station is just 10 minutes by bike and within 5 minutes you're on the A2 and at your destination in no time. And parking is also available in front of the door!
 For this property, please contact HouseHunting Randstad
-Although this text has been prepared with care, no rights can be derived from this text. Sizes are indicative and not NEN measured. Grant subject to approval by landlord/owner. Deposit amount may vary, depending on profile. No pets allowed. No smoking. Lease agreement for a definite period. General terms and conditions of ROZ apply.",False,,Kanaleneiland-Noord,utrecht,293000.0,46.875,4.0,2.0,41,45.58951965065502,False,139.46,45.58951965065502
+Although this text has been prepared with care, no rights can be derived from this text. Sizes are indicative and not NEN measured. Grant subject to approval by landlord/owner. Deposit amount may vary, depending on profile. No pets allowed. No smoking. Lease agreement for a definite period. General terms and conditions of ROZ apply.",False,,Kanaleneiland-Noord,utrecht,293000.0,46.875,14.0,2.0,41,45.58951965065502,False,149.46,45.58951965065502
 https://www.pararius.com/apartment-for-rent/maastricht/8c38a217/franciscus-romanusweg,926.0,6221 AG,47.0,1,Upholstered,Temporary rental,,2014.0,1.0,"Sewer connection
 Shower
 Toilet",,Present,,E,Present,Yes,Permit,,"Description
-Nice apartment situated on the ground floor. The apartment has a living room with laminate floor, separate spacious kitchen (including equipment), large bedroom with laminate floor and a bathroom with shower, sink and toilet. There is also a large garden shared with one other apartment.",False,,Sint Maartenspoort,maastricht,265000.0,44.0625,8.0,2.0,-4,42.62138808882282,False,80.65,30.58568306931153
+Nice apartment situated on the ground floor. The apartment has a living room with laminate floor, separate spacious kitchen (including equipment), large bedroom with laminate floor and a bathroom with shower, sink and toilet. There is also a large garden shared with one other apartment.",False,,Sint Maartenspoort,maastricht,265000.0,44.0625,14.0,2.0,-4,42.62138808882282,False,88.63,32.56568306931153
 https://www.pararius.com/apartment-for-rent/amsterdam/80cd503f/boeninlaan,957.0,1102 TP,66.0,3,Furnished,Unlimited period,,1985.0,1.0,,Present,Not present,,B,Not present,Yes,Public,No,"Description
 !!ONLY RESPOND THROUGH THE AD, THROUGH THE MAIL AND BY PHONE REQUESTS WILL NOT BE CONSIDERED!!!
 Fine flat in Amsterdam!
@@ -333,7 +333,7 @@ Surroundings:
 This property on Boeninlaan is located in a quiet, green neighbourhood in Amsterdam Nieuw-West, an increasingly popular district. The neighbourhood is characterised by wide streets, lots of greenery and a relaxed living atmosphere. Within walking distance you will find several amenities such as supermarkets (Jumbo and Albert Heijn), schools, sports facilities and public transport. Trams and buses will take you to the centre of Amsterdam within 20 minutes, while Amsterdam Lelylaan Station and the A4, A9 and A10 motorways are easy to reach.
 For recreation, you can visit the nearby Sloterpark and the Sloterplas, where you can enjoy walking, cycling or water sports activities. In addition, the Osdorpplein shopping centre offers a wide range of shops, restaurants and cafés for daily convenience and conviviality.Boeninlaan offers the perfect balance between quiet living in green surroundings and proximity to all urban amenities.
 For this property, please contact HouseHunting Randstad.
-Although prepared with care, no rights can be derived from this text. Sizes are indicative and not NEN measured. Grant subject to approval by landlord/owner. Deposit amount may vary, depending on profile. No pets allowed. No smoking. Lease agreement for a definite period. General conditions of ROZ applicable.",False,,Venserpolder,amsterdam,297000.0,61.875,4.0,0.0,34,39.65065502183406,False,139.53,39.65065502183406
+Although prepared with care, no rights can be derived from this text. Sizes are indicative and not NEN measured. Grant subject to approval by landlord/owner. Deposit amount may vary, depending on profile. No pets allowed. No smoking. Lease agreement for a definite period. General conditions of ROZ applicable.",False,,Venserpolder,amsterdam,297000.0,61.875,10.0,2.0,34,39.65065502183406,False,147.53,39.65065502183406
 https://www.pararius.com/house-for-rent/landgraaf/101474f4/pastoor-scheepersstraat,1150.0,6374 HS,110.0,5,Upholstered,Unlimited period,,1962.0,1.0,"Bath
 Cable TV
 Roller blinds
@@ -361,7 +361,7 @@ Income requirement: gross income equal to 3 times the monthly rent;
 Subject to landlord's approval;
 Subject to a positive outcome of income data and tenant identification screening;
 Smoking in the property is not allowed;
-Pets are not allowed.",False,,Oranjebuurt,beverwijk,312000.0,45.0,8.0,0.0,57,49.38427947598253,False,159.38,49.38427947598253
+Pets are not allowed.",False,,Oranjebuurt,beverwijk,312000.0,45.0,14.0,2.0,57,49.38427947598253,False,167.38,49.38427947598253
 https://www.pararius.com/apartment-for-rent/son-en-breugel/5a1083f3/nieuwstraat,920.0,5691 AD,79.0,5,Upholstered,,,1961.0,1.0,Bath,,Not present,,C,,,,No,"Description
 123Wonen Eindhoven offers: Spacious 4-bedroom flat in the attractive centre of Son en Breugel.
 This nice flat in a prime location in Son en Breugel has a living area of 80 m² and offers a spacious layout with plenty of opportunities to decorate it to your own taste. All the shops, such as supermarkets, a pharmacy, a hairdresser, and a drugstore, are within walking distance. Additionally, there are several restaurants nearby, and a weekly market with fresh products is just around the corner.
@@ -383,7 +383,7 @@ DETAILS
 ,- per month, excl. GWL, internet and municipal taxes;
 - Security deposit € 1,840,-;
 - Non-smoking house;
-For more information or a no-obligation viewing, we cordially invite you to contact us.",False,,Son,son en breugel,468000.0,74.0625,10.0,0.0,22,57.86921673760433,False,160.16,54.09746652340944
+For more information or a no-obligation viewing, we cordially invite you to contact us.",False,,Son,son en breugel,468000.0,74.0625,14.0,0.0,22,57.86921673760433,False,165.48,55.41746652340944
 https://www.pararius.com/apartment-for-rent/kampen/f5bb54cb/vloeddijk,995.0,8261 GK,41.0,2,Upholstered,,,1900.0,1.0,,,Not present,,A+,,,,No,"Description
 123Wonen Dé verhuurmakelaar van Zwolle offers:
 UNIQUE CHANCE! Living in a canal house in a new luxury apartment! Recently, this monumental canal house in the center of Kampen, transformed into 3 luxury apartments. Neither cost nor effort have been spared to breathe new life into this old building from 1900. Of course while maintaining the beautiful, authentic details. The ultimate combination of living in an old, characteristic building but luxury apartment with modern comfort. The building was made more sustainable during the transformation, so you also live here energy efficiently!
@@ -402,7 +402,7 @@ DETAILS
 - NO commission for the tenant! 123Wonen works as a rental agent for the owner.
 Do you find this property on a website where we advertise?
 Check our own website: ****** for our current offer!
-For more information or a viewing, we invite you to contact us!",False,,Binnenstad Kampen,kampen,222000.0,38.4375,4.0,0.0,47,38.64469059537757,False,128.08,38.64469059537757
+For more information or a viewing, we invite you to contact us!",False,,Binnenstad Kampen,kampen,222000.0,38.4375,14.0,0.0,47,38.64469059537757,False,138.08,38.64469059537757
 https://www.pararius.com/apartment-for-rent/venray/263a0742/donkweg,1000.0,5804 XW,88.0,3,Shell,Unlimited period,,2015.0,1.0,,Present,Not present,,A,Not present,Yes,Public,No,"Description
 Fraai appartement op de 1e verdieping
 88 m2 woonoppervlakte
@@ -422,12 +422,12 @@ Bijzonderheden
 - Indien de vertrekkende huurder zaken ter overname aanbiedt, wordt dit bij de toewijzing kenbaar gemaakt.
 Inkomensnorm
 Om in aanmerking te kunnen komen voor een woning via Wonen Limburg Accent dien je minimaal een bruto maandinkomen te hebben van 3,5 keer de maandhuur. Hierin tellen vakantiegeld en een eventuele 13e maand mee. Voor deze woning betekent het dat je minimaal € 42.000, - moet verdienen. Verdien je minder, maar wel minimaal € 37.000, -? Dan kun je in aanmerking komen mits er eigen vermogen is van € 30.000,-. Beschik je over eigen vermogen? Dit kun je aantonen d.m.v. een bankafschrift van een spaarrekening, dan nemen wij dit mee in de beoordeling..
-Aan deze informatie kunnen geen rechten worden ontleend. De gebruikte foto’s en plattegronden zijn ter indicatie en kunnen afwijken van de werkelijkheid.",False,,Brabander,venray,456000.0,82.5,4.0,0.0,41,53.62802699483922,False,181.13,53.62802699483922
+Aan deze informatie kunnen geen rechten worden ontleend. De gebruikte foto’s en plattegronden zijn ter indicatie en kunnen afwijken van de werkelijkheid.",False,,Brabander,venray,456000.0,82.5,4.0,2.0,41,53.62802699483922,False,183.13,53.62802699483922
 https://www.pararius.com/apartment-for-rent/nijmegen/fb0c9a85/priemstraat,1080.0,6511 WC,33.0,2,Upholstered or furnished,Temporary rental,,1881.0,1.0,"Shower
 Toilet",Not present,,,A,,Yes,Public,,"Description
 Comfortable furnished apartment for rent in Nijmegen with 1 bedroom in the Benedenstad district.",False,,Benedenstad,nijmegen,324000.0,30.9375,8.0,0.0,49,64.87415641127431,False,138.37,50.42784661572053
 https://www.pararius.com/apartment-for-rent/utrecht/80cffbb4/winklerlaan,880.0,3571 KE,69.0,3,,,,2024.0,1.0,,Present,,,A++,,,,,"Description
-Beautiful apartment with balcony for rent in Utrecht in the Tuindorp-Oost district.",False,,Tuindorp-Oost,utrecht,456000.0,64.6875,4.0,0.0,52,59.85893297892538,False,180.27,59.58032288304538
+Beautiful apartment with balcony for rent in Utrecht in the Tuindorp-Oost district.",False,,Tuindorp-Oost,utrecht,456000.0,64.6875,4.0,2.0,52,59.85893297892538,False,182.55,59.85893297892538
 https://www.pararius.com/apartment-for-rent/rotterdam/7f255037/baroniestraat,1009.0,3051 EA,60.0,3,Upholstered,Temporary rental,,1928.0,1.0,,Present,,,A,,,,,"Description
 ARE YOU A STUDENT AND ARE YOU CURRENTLY NOT REGISTERED IN THE MUNICIPALITY OF ROTTERDAM? THEN LOOK NO FURTHER!
 PLEASE NOTE: UNFORTUNATELY, DUE TO THE NEW LAW AND REGULATIONS, THERE IS NO POINT TO RESPOND TO THIS OBJECT IF YOU DO NOT MEET THE ABOVE CONDITIONS.
@@ -450,7 +450,7 @@ Requirements:
 Income requirement:
 • 3.5 to 4 times the gross rent per month on 1 income
 • The income requirement for a guarantor is 5x the gross rent per month on 1 income
-** No rights can be derived from the data, text and photos of this object.",False,,Hillegersberg Zuid,rotterdam,414000.0,56.25,4.0,0.0,41,58.13100436681223,False,153.85,52.59573144104804
+** No rights can be derived from the data, text and photos of this object.",False,,Hillegersberg Zuid,rotterdam,414000.0,56.25,14.0,2.0,41,58.13100436681223,False,169.81,56.55573144104804
 https://www.pararius.com/apartment-for-rent/heerlen/afa532b9/schaapskooiweg,920.0,6414 EL,80.0,3,Upholstered,,,1980.0,1.0,,Not present,Not present,,B,,,,No,"Description
 Apartment for rent in Heerlen with 2 bedrooms in the Versiliënbosch district.",False,,Versiliënbosch,heerlen,158000.0,75.0,4.0,-5.0,34,18.624454148471614,False,126.62,18.624454148471614
 https://www.pararius.com/apartment-for-rent/groningen/c2ea22a6/de-kaai,905.0,9723 LE,43.0,2,Furnished,,,2016.0,1.0,,,Not present,,A,,,,No,"Description
@@ -488,22 +488,22 @@ For more information or a no-obligation viewing, we cordially invite you to cont
 123Wonen Groningen
 Kraneweg 23
 9718 JD Groningen
-******",False,,Kop van Oost,groningen,385000.0,40.3125,4.0,0.0,41,65.0982024982228,False,134.95,49.635531824413526
+******",False,,Kop van Oost,groningen,385000.0,40.3125,10.0,0.0,41,65.0982024982228,False,142.93,51.61553182441353
 https://www.pararius.com/apartment-for-rent/rotterdam/5a630f7b/oudedijk,897.0,3061 AH,15.0,1,Furnished,,,1935.0,1.0,,Not present,Present,,,,,,,"Description
 In Rotterdam Kralingen on a prime location in the shopping street Oudedijk situated a furnished ROOM for rent in a charming 3-room apartment on the ground floor with garden. Tram 7 stops in front of the door and metro stations Gerdesiaweg and Voorschoterlaan are within walking distance, as well as the Kralingse Plas, the Kralingse Bos, various shops and the Erasmus University.
-Layout: Entrance: Hall with access to all rooms. The shared living room is located at the rear and offers access to the garden via a staircase. The semi-closed kitchen is accessible from the living room and is fully equipped in modern high-gloss (anthracite) and equipped with, among other things, a microwave, built-in coffee machine, dishwasher & refrigerator. The ROOM is located in the middle of the house and has a built-in wardrobe and a bed. The SHARED new bathroom is fully tiled and equipped with a shower, washbasin and mirror. Separately tiled hanging toilet and cast floor Will you be the new resident of this fantastically well-maintained authentic ROOM with freshly finished floors, walls and ceilings with ornaments in a prime location? *The facilities are shared with 1 person The deposit is 1.5 months' rent.",False,,Kralingen West,rotterdam,360000.0,14.0625,4.0,2.0,-15,128.80349344978166,False,49.24,44.17577783842795
+Layout: Entrance: Hall with access to all rooms. The shared living room is located at the rear and offers access to the garden via a staircase. The semi-closed kitchen is accessible from the living room and is fully equipped in modern high-gloss (anthracite) and equipped with, among other things, a microwave, built-in coffee machine, dishwasher & refrigerator. The ROOM is located in the middle of the house and has a built-in wardrobe and a bed. The SHARED new bathroom is fully tiled and equipped with a shower, washbasin and mirror. Separately tiled hanging toilet and cast floor Will you be the new resident of this fantastically well-maintained authentic ROOM with freshly finished floors, walls and ceilings with ornaments in a prime location? *The facilities are shared with 1 person The deposit is 1.5 months' rent.",False,,Kralingen West,rotterdam,360000.0,14.0625,14.0,2.0,-15,128.80349344978166,False,62.54,47.47577783842795
 https://www.pararius.com/apartment-for-rent/rotterdam/062fadf3/oudedijk,912.0,3061 AH,13.0,1,Furnished,,,1935.0,1.0,,Not present,Present,,,,,,,"Description
 A furnished ROOM for rent in a charming 3-room apartment on the ground floor with garden in a prime location in the Oudedijk shopping street in Rotterdam Kralingen. Tram 7 stops in front of the door and metro stations Gerdesiaweg and Voorschoterlaan are within walking distance, as well as the Kralingse Plas, the Kralingse Bos, various shops and the Erasmus University. 
-Layout: Entrance: Hall with access to all rooms. The communal living room is located at the rear and offers access to the garden via a staircase. The semi-closed kitchen is accessible from the living room and is fully equipped in modern high gloss (anthracite) and includes a microwave, built-in coffee machine, dishwasher and refrigerator. The ROOM is located at the front and equipped with a built-in wardrobe. The JOINT new bathroom is fully tiled and equipped with a shower, washbasin and mirror. Separately tiled hanging closet and cast floor Will you be the new resident of this fantastically maintained authentic ROOM with just finished floors, walls and ceilings with ornaments in a prime location? *The facilities are shared with 1 personThe deposit is 1,5 months' rent.",False,,Kralingen West,rotterdam,360000.0,12.1875,4.0,2.0,-15,144.92710782667115,False,52.07,48.87782058280148
+Layout: Entrance: Hall with access to all rooms. The communal living room is located at the rear and offers access to the garden via a staircase. The semi-closed kitchen is accessible from the living room and is fully equipped in modern high gloss (anthracite) and includes a microwave, built-in coffee machine, dishwasher and refrigerator. The ROOM is located at the front and equipped with a built-in wardrobe. The JOINT new bathroom is fully tiled and equipped with a shower, washbasin and mirror. Separately tiled hanging closet and cast floor Will you be the new resident of this fantastically maintained authentic ROOM with just finished floors, walls and ceilings with ornaments in a prime location? *The facilities are shared with 1 personThe deposit is 1,5 months' rent.",False,,Kralingen West,rotterdam,360000.0,12.1875,14.0,2.0,-15,144.92710782667115,False,65.37,52.17782058280148
 https://www.pararius.com/apartment-for-rent/drachten/1e5eec9a/de-kolken,890.0,9201 BV,71.0,4,Shell,Unlimited period,,1963.0,1.0,Shower,Present,Not present,,D,Present,Yes,Public,No,"Description
-Beautiful apartment with balcony for rent in Drachten with 2 bedrooms in the De Swetten district.",False,,De Swetten,drachten,210000.0,66.5625,8.0,0.0,14,26.91592348852943,False,115.48,26.91592348852943
+Beautiful apartment with balcony for rent in Drachten with 2 bedrooms in the De Swetten district.",False,,De Swetten,drachten,210000.0,66.5625,8.0,2.0,14,26.91592348852943,False,117.48,26.91592348852943
 https://www.pararius.com/apartment-for-rent/spijkenisse/2e79387e/winston-churchilllaan,970.0,3202 GN,68.0,4,,,,1965.0,1.0,"Bath
 Cable TV
 Lift
 Mechanical ventilation
 Storage space
 Toilet",Present,Not present,,A+,Present,Yes,Public,No,"Description
-Beautiful apartment with balcony for rent in Spijkenisse with 3 bedrooms in the Schiekamp-Zuid district.",False,,Schiekamp-Zuid,spijkenisse,205000.0,63.75,10.0,0.0,47,27.164654508091445,False,147.91,27.164654508091445
+Beautiful apartment with balcony for rent in Spijkenisse with 3 bedrooms in the Schiekamp-Zuid district.",False,,Schiekamp-Zuid,spijkenisse,205000.0,63.75,10.0,2.0,47,27.164654508091445,False,149.91,27.164654508091445
 https://www.pararius.com/apartment-for-rent/almere/d9c0e1be/amsterdamweg,1075.0,1324 RP,45.0,2,Upholstered,Unlimited period,,1981.0,1.0,,Not present,Not present,,A,Not present,No,,No,"Description
 Spacious and Charming Studio for Rent
 Available from 01-11-2024, with a minimum rental period of 12 months.
@@ -511,10 +511,10 @@ The studio includes a separate sleeping area, a spacious kitchen, and a private 
 Rent: €1075 per month
 Deposit: €1950
 A viewing will be scheduled soon.
-If interested, please respond to the advertisement.",False,,Stedenwijk Midden-noord,almere,314000.0,42.1875,4.0,-5.0,41,51.470645317806884,False,126.29,44.107187954876274
+If interested, please respond to the advertisement.",False,,Stedenwijk Midden-noord,almere,314000.0,42.1875,10.0,-5.0,41,51.470645317806884,False,134.27,46.08718795487627
 https://www.pararius.com/apartment-for-rent/rotterdam/8c1a6877/sonmansstraat,925.0,3039 DJ,20.0,1,Furnished,,,1935.0,1.0,,Not present,Present,,C,,,,,"Description
 No couples - 1 person only Fully renovated furnished room located in the popular neighborhood Blijdorp on the Sonmansstraat. The apartment is within walking distance of the Vroesenpark, shops, supermarket (Albert Heijn) and public transport facilities including the Randstad Rail station and the Central Station.
-Layout: Joint entrance. The spacious fully furnished room is located on the ground floor at the front. The floor is provided with a new laminate floor and the space is provided with a bed, cupboard and chair. The new kitchen and bathroom are shared with 1 roommate at the rear.",False,,Blijdorp,rotterdam,383000.0,18.75,4.0,2.0,36,109.62445414847161,False,116.97,56.22356986899563
+Layout: Joint entrance. The spacious fully furnished room is located on the ground floor at the front. The floor is provided with a new laminate floor and the space is provided with a bed, cupboard and chair. The new kitchen and bathroom are shared with 1 roommate at the rear.",False,,Blijdorp,rotterdam,383000.0,18.75,10.0,2.0,36,109.62445414847161,False,124.95,58.203569868995636
 https://www.pararius.com/apartment-for-rent/groningen/0c20a359/almastraat,1142.0,9716 CX,66.0,2,Upholstered,Unlimited period,,2015.0,1.0,"Shower
 Toilet",Not present,Not present,,A,Not present,Yes,Permit,No,"Description
 Beautiful apartment for rent in Groningen with 1 bedroom in the De Hoogte district.",False,,De Hoogte,groningen,221000.0,61.875,8.0,-5.0,41,29.622204578536454,False,135.5,29.622204578536454
@@ -533,7 +533,7 @@ Service charges: € 45,00
 Total rent: € 1.140,00
 Security deposit: € 2.280,00
 Supply of utilities is not included in the rent and must be requested by the tenant.
-No rights can be derived from this information.",False,,Limbricht,limbricht,311000.0,95.625,4.0,-5.0,34,34.314496104118504,False,162.94,34.314496104118504
+No rights can be derived from this information.",False,,Limbricht,limbricht,311000.0,95.625,14.0,-5.0,34,34.314496104118504,False,172.94,34.314496104118504
 https://www.pararius.com/apartment-for-rent/rotterdam/93d836d8/beijerlandselaan,1010.0,3074 EB,63.0,4,Upholstered,,,1927.0,1.0,,Present,Not present,,A,,No,,,"Description
 This area embraces the rich melting pot of cultures that make Rotterdam so vibrant. From lively streets to hidden gems, here you will find a harmonious blend of diversity and charm. We have a wonderful 4-room apartment available, perfect for a couple! Interested? Respond quickly via our website.
 LAY-OUT: Entrance at street level, leading to the communal area. You take the stairs to the 2nd floor where the apartment is located. Front door, entrance into the apartment in the living room of approximately 27 m². Open kitchen equipped with a stove, refrigerator, extractor hood, and combi microwave. Three bedrooms: two located at the rear of approximately 6 m² and 11 m², and one located at the front of approximately 9 m². From the cozy bedroom at the rear, you have access through French doors to the balcony at the back. Bathroom equipped with a shower, sink, and toilet.
@@ -554,7 +554,7 @@ RENTAL CONDITIONS:
 - Parking permit: please see here (******) more information about the -possible- waiting list regarding the parking residents permit
 REQUIREMENTS:
 See under the tab ""rental conditions"" which documents are required for renting this property.
-* No legal rights can be derived from the above text",False,,Hillesluis,rotterdam,216000.0,59.0625,4.0,0.0,41,28.971927635683095,False,133.03,28.971927635683095
+* No legal rights can be derived from the above text",False,,Hillesluis,rotterdam,216000.0,59.0625,14.0,2.0,41,28.971927635683095,False,145.03,28.971927635683095
 https://www.pararius.com/apartment-for-rent/leeuwarden/cd94eece/van-harinxmaplein,950.0,8931 DN,78.0,2,Shell,Temporary rental,,1960.0,1.0,,Not present,Not present,,C,Not present,No,,No,"Description
 Beautiful apartment for rent in Leeuwarden with 2 bedrooms in the Nijlân district.",False,,Nijlân,leeuwarden,181000.0,73.125,4.0,-5.0,22,22.133243757697905,False,116.26,22.133243757697905
 https://www.pararius.com/apartment-for-rent/naarden/8096786c/zwarteweg,895.0,1412 GD,31.0,1,,,,2024.0,1.0,,,,,A,,,,,"Description
@@ -580,7 +580,7 @@ The studio is located in the Binnenstad-Oost district in Groningen. The bustling
 Layout
 The studio is located on the first floor of the building. Everything is in one room and there is a separate bathroom.
 Rental price
-The rental price is €1025,- per month including",False,,Binnenstad-Zuid,groningen,283000.0,30.9375,4.0,0.0,62,56.44872303824269,False,147.55,50.61745360262009
+The rental price is €1025,- per month including",False,,Binnenstad-Zuid,groningen,283000.0,30.9375,10.0,0.0,62,56.44872303824269,False,155.53,52.59745360262009
 https://www.pararius.com/apartment-for-rent/almere/c8cda81a/ganeshastraat,1093.0,1363 XA,61.0,2,Furnished,Unlimited period,,2009.0,1.0,Shower,Not present,"Present (20 m², located on the south)",,A+,Present,No,,No,"Description
 rond. Het appartement is per direct beschikbaar en is zeer gunstig gelegen ten opzichte van openbaar vervoer met goede verbindingen naar Amsterdam met vlakbij de uitvalswegen A1/A27. Voor uw dagelijkse boodschappen kunt u terecht bij de PLUS Homerusmarkt. Woning is gelegen in Homeruskwartier, Almere Poort. Tevens liggen Internationale school, middelbare scholen en kinderopvang en Cascadepark om de hoek van dit prettige appartement. Indeling: Entree op de begane grond, ruime hal met de meterkast en schoenenkast. 1 ruime slaapkamer van ca. 12m² met bedframe, 2 nachtkastjes, vanity en ruime kledingkast. De slaapkamer geeft toegang tot de badkamer. Zeer ruime badkamer voorzien van inloopdouche met nette glazen deuren, wastafelmeubel, radiator en wasmachine. Via de hal is er toegang tot de aparte toilet met wastafel. De zeer ruime woonkamer geeft toegang tot het terras en speelplaats via de openslaande deuren en is voorzien van een ruime hoekbank en smart TV. De open keuken is volledig uitgerust met een vaatwasser, koel- vries combinatie, kookplaat (keramisch), combi-oven, magnetron en een net aanrechtblad. Tevens bijpassend eettafel met 4 eetkamerstoelen. Bijzonderheden: -De huurprijs is €1200 per maand. (Kale huur €1093 + €107 meubilering en servicekosten) -Middenhuur appartement – Per direct beschikbaar; – Contract voor onbepaalde tijd; – Gegevens controle is van toepassing; – Inkomensnorm 3,5x de maandhuur (bruto); -Borg €2400 – Energielabel A+; – Stadsverwarming; – Eigen privé parkeerplek; – Huurprijs is excl. NUTS voorzieningen (warm water, water, electriciteit, internet.) – Gemeubileerd
 Aan de op de plattegronden en in de brochure vermelde informatie kunnen op geen enkele manier rechten worden ontleend.
@@ -590,7 +590,7 @@ House for rent in Hengelo with 3 bedrooms in the Bedrijventerrein Twentekanaal-N
 https://www.pararius.com/apartment-for-rent/deventer/70521757/tabakswal,998.0,7413 TE,35.0,2,Upholstered,Unlimited period,,1908.0,1.0,Lift,Not present,Not present,,A,Not present,Yes,Public,No,"Description
 Comfortable apartment for rent in Deventer with 1 bedroom in the Rode Dorp district.",False,,Rode Dorp,deventer,244000.0,32.8125,4.0,-5.0,49,46.442919525888954,False,122.81,41.994288443543354
 https://www.pararius.com/apartment-for-rent/panningen/1688ed27/markt,1075.0,5981 AA,112.0,3,Shell,Unlimited period,,2010.0,1.0,,Present,Not present,,A,Present,No,,No,"Description
-Charming apartment with balcony for rent in Panningen with 2 bedrooms in the Panningen district.",False,,Panningen,panningen,310000.0,105.0,4.0,0.0,41,33.08671241422333,False,183.09,33.08671241422333
+Charming apartment with balcony for rent in Panningen with 2 bedrooms in the Panningen district.",False,,Panningen,panningen,310000.0,105.0,4.0,2.0,41,33.08671241422333,False,185.09,33.08671241422333
 https://www.pararius.com/apartment-for-rent/enschede/f02f785c/roelof-van-schevenstraat,1060.0,7521 SK,78.0,3,,,,1967.0,1.0,,Not present,Not present,,C,,,,No,"Description
 Beautiful apartment for rent in Enschede with 2 bedrooms in the Tubantia-Toekomst district.",False,,Tubantia-Toekomst,enschede,256000.0,73.125,4.0,-5.0,22,31.332101668346212,False,125.46,31.332101668346212
 https://www.pararius.com/apartment-for-rent/utrecht/33957199/predikherenkerkhof,885.0,3512 TJ,16.0,1,,,,1650.0,1.0,,Not present,,,B,,,,,"Description
@@ -620,7 +620,7 @@ Deposit: Approximately 1 month's all-in rent
 Who Is This For?
 Canisiushof lofts are ideal for (exchange) students, expats, and professionals in need of temporary housing due to home renovation, sale, relationship changes, internships, or short-term work assignments in or around Nijmegen.
 Viewings
-Interested in learning more or scheduling a viewing? Contact us directly to explore this unique living opportunity at Canisiushof!",False,,Hunnerberg,nijmegen,601000.0,38.4375,4.0,-5.0,52,105.01107679199063,False,153.61,64.16803034135691
+Interested in learning more or scheduling a viewing? Contact us directly to explore this unique living opportunity at Canisiushof!",False,,Hunnerberg,nijmegen,601000.0,38.4375,14.0,-5.0,52,105.01107679199063,False,166.91,67.46803034135691
 https://www.pararius.com/apartment-for-rent/valkenswaard/61761181/eindhovenseweg,925.0,5554 AD,60.0,1,Upholstered,Unlimited period,,2006.0,1.0,"Lift
 Shower",Not present,Not present,,A,Present,Yes,Permit,No,"Description
 Very spacious 2-room flat located in the centre of Valkenswaard
@@ -639,7 +639,7 @@ Including service costs
 Exclusive: gas/water/electricity, TV, internet and municipal taxes.
 Deposit: € 2000,-.
 Pets and smoking not allowed.
-Available from 1-11-2024.",False,,Centrum,valkenswaard,338000.0,56.25,8.0,-5.0,41,47.59970887918486,False,147.85,47.59970887918486
+Available from 1-11-2024.",False,,Centrum,valkenswaard,338000.0,56.25,14.0,-5.0,41,47.59970887918486,False,153.85,47.59970887918486
 https://www.pararius.com/apartment-for-rent/lisse/2c67c376/heereweg,1150.0,2161 AJ,66.0,2,Upholstered,,,1999.0,1.0,,,,,A,,,,,"Description
 Within walking distance of the lively shopping center of Lisse, we offer this perfect apartment on the second floor of a small apartment complex. This spacious one bedroom apartment has a private parking space and a private storage room. We offer this apartment unfurnished, for an indefinite period of which a minimum period of 12 months.
 First floor: Closed entrance with video intercom system and mailboxes. In the courtyard you can reach the private storage rooms. The apartment can be reached via the outside stairs.
@@ -654,7 +654,7 @@ Specifications:
 - Available indefinitely, minimum 12 months.
 - Rental price excluding G/W/E, TV+internet and municipal charges / including service costs HAO
 - Own central heating boiler
-- Allocation subject to landlord's approval",False,,De Blinkerd,lisse,423000.0,61.875,4.0,0.0,41,56.987296546248515,False,160.95,54.07455786026201
+- Allocation subject to landlord's approval",False,,De Blinkerd,lisse,423000.0,61.875,14.0,0.0,41,56.987296546248515,False,173.86,56.987296546248515
 https://www.pararius.com/apartment-for-rent/eindhoven/56a38308/hoogstraat,1125.0,5654 NG,40.0,2,,,,1906.0,1.0,Shower,Not present,Present (200 m²),achtertuin,A,Present,,,,"Description
 **Stylish studio in a charming city villa!
 Are you looking for a tasteful and comfortable living space in a prime location? This recently renovated, fully unfurnished studio in a characteristic city villa close to the bustling city center offers exactly what you are looking for!
@@ -676,7 +676,7 @@ Minimum rental period: 12 months
 no students (phd possible)
 preference single household
 This studio is perfect for those looking for a comfortable, fully serviced living space in a characterful environment, just steps away from all the conveniences of downtown.
-Don't hesitate any longer and schedule a viewing today!",False,200.0,Blaarthem,eindhoven,296000.0,37.5,8.0,15.0,49,52.314410480349345,False,161.81,52.314410480349345
+Don't hesitate any longer and schedule a viewing today!",False,200.0,Blaarthem,eindhoven,296000.0,37.5,14.0,15.0,49,52.314410480349345,False,167.81,52.314410480349345
 https://www.pararius.com/apartment-for-rent/groningen/f8b2cdc6/noorderbuitensingel,1000.0,9717 KK,35.0,2,Furnished,Unlimited period,,1900.0,1.0,,Not present,Not present,,F,Not present,No,,No,"Description
 Comfortable apartment for rent in Groningen with 1 bedroom in the Noorderplantsoenbuurt district.",False,,Noorderplantsoenbuurt,groningen,267000.0,32.8125,4.0,-5.0,-9,51.31253898939488,False,47.27,24.461262866500313
 https://www.pararius.com/apartment-for-rent/groningen/a73631d1/parkweg,1031.0,9725 EA,25.0,2,,,,1937.0,1.0,,Not present,,,A+,,,,,"Description
@@ -701,9 +701,9 @@ Security deposit: €1,247.86
 Rental term: indefinite (minimum of 12 months)
 Pets are not allowed
 Smoking is not allowed
-Delivery: semi-furnished",False,,Markt,arnhem,297000.0,74.0625,8.0,0.0,47,36.41700292963352,False,165.48,36.41700292963352
+Delivery: semi-furnished",False,,Markt,arnhem,297000.0,74.0625,14.0,2.0,47,36.41700292963352,False,173.48,36.41700292963352
 https://www.pararius.com/apartment-for-rent/heerlen/db1a645d/vossepark,1125.0,6416 WE,65.0,3,,,,2024.0,1.0,,Present,,,A++,,,,,"Description
-Beautiful apartment with balcony for rent in Heerlen in the Dr. Nolensplein en omgeving district.",False,,Dr. Nolensplein en omgeving,heerlen,204000.0,60.9375,4.0,0.0,52,27.705072220356065,False,144.64,27.705072220356065
+Beautiful apartment with balcony for rent in Heerlen in the Dr. Nolensplein en omgeving district.",False,,Dr. Nolensplein en omgeving,heerlen,204000.0,60.9375,4.0,2.0,52,27.705072220356065,False,146.64,27.705072220356065
 https://www.pararius.com/apartment-for-rent/den-haag/a6978eb9/gedempte-sloot,895.0,2513 TE,40.0,2,Furnished,Unlimited period,,1971.0,1.0,"Lift
 Shower
 Toilet",Not present,Not present,,D,Present,No,,No,"Description
@@ -720,7 +720,7 @@ modern building on a perfect location
 rental price is excluding utilities, TV and Internet
 double glazed
 minimum duration 1 year
-a housing permit is needed for this apartment",False,,Kortenbos,den haag,317000.0,37.5,8.0,-5.0,32,55.60698689956332,False,114.78,42.27530567685589
+a housing permit is needed for this apartment",False,,Kortenbos,den haag,317000.0,37.5,14.0,-5.0,32,55.60698689956332,False,122.76,44.2553056768559
 https://www.pararius.com/apartment-for-rent/assen/96090d02/singelpassage,1165.0,9401 JB,48.0,3,Upholstered,Unlimited period,,1889.0,1.0,,Not present,Not present,,A,Not present,No,,No,"Description
 Nice apartment for rent in Assen with 2 bedrooms in the Koopmanskwartier district.",False,,Koopmanskwartier,assen,180000.0,45.0,4.0,-5.0,41,28.375545851528383,False,113.38,28.375545851528383
 https://www.pararius.com/apartment-for-rent/nuth/90a122f9/markt,1120.0,6361 CB,140.0,4,Upholstered,,,1960.0,1.0,"Roof terrace
@@ -741,7 +741,7 @@ Rental data:
 The rental price of this upstairs apartment is excluding utilities € 1120,- per month.
 The deposit is € 2240,-
 Minimum rental period is 24 months.
-We work in accordance with the Pararius allocation protocol. More information can be found via this link: ******",False,,Nuth,nuth,243000.0,131.25,8.0,0.0,22,23.579538365564567,False,184.83,23.579538365564567
+We work in accordance with the Pararius allocation protocol. More information can be found via this link: ******",False,,Nuth,nuth,243000.0,131.25,14.0,0.0,22,23.579538365564567,False,190.83,23.579538365564567
 https://www.pararius.com/apartment-for-rent/simpelveld/9f86d76e/stationstraat,950.0,6369 VG,50.0,2,,,,1900.0,1.0,Laundry room,Not present,,,D,,,,,"Description
 Nice apartment for rent in Simpelveld with 1 bedroom in the Simpelveld district.",False,,Simpelveld,simpelveld,250000.0,46.875,4.0,0.0,14,38.83406113537118,False,99.1,34.22399017467249
 https://www.pararius.com/apartment-for-rent/groningen/421a876f/smaragdstraat,1044.0,9743 KS,40.0,2,,,,1970.0,1.0,,Not present,,,A++,,,,,"Description
@@ -752,7 +752,7 @@ The bathroom has a bath that can also be used as a shower, toilet and bathroom f
 The apartment is available from November and can also be rented for short stay (minimum 6 months). Rental price incl. furniture: €1,025,- excl. Advance payment GWE: €200,- and service costs €25,- per month.
 **The information and dimensions of this property have been compiled with care, but may differ from reality, no rights can be derived from this information**
 *Star Housing Makelaardij acts on behalf of the landlord.
-All offers are without obligation and subject to the landlord's right of award.*",False,,Eijsden-Breust,eijsden,353000.0,60.9375,4.0,-5.0,-15,47.71514947934162,False,75.51,30.575374328182736
+All offers are without obligation and subject to the landlord's right of award.*",False,,Eijsden-Breust,eijsden,353000.0,60.9375,14.0,-5.0,-15,47.71514947934162,False,88.81,33.87537432818274
 https://www.pararius.com/apartment-for-rent/rotterdam/841ef054/scheepstimmermanslaan,899.0,3016 AE,45.0,3,,,,1891.0,1.0,,Not present,Not present,,A,,No,,,"Description
 This apartment is located in the heart of the historic Scheepvaartkwartier, one of the most desirable and charming neighborhoods in Rotterdam. Surrounded by beautiful monumental buildings and within walking distance of the Maas, the location offers a unique combination of tranquility and urban vibrancy. In the area, you will find luxury restaurants, cozy cafes, and various cultural hotspots such as the Veerhaven and Het Park by the Euromast. With excellent public transport connections and the city center just a stone's throw away, this is an ideal place for those looking to live centrally and stylishly.
 LAYOUT: Entrance at street level, you enter the communal area. You take the stairs to the 2nd floor where the apartment is located at the front. Front door, entrance to the apartment into the bright living room of approximately 22 m². Open kitchen equipped with a gas hob, refrigerator, and extractor hood. Two bedrooms of approximately 6 m² and 10 m². Bathroom equipped with a shower, sink, and toilet.
@@ -773,12 +773,12 @@ RENTAL CONDITIONS:
 - No pets allowed
 - Only in Rotterdam: Parking permit: find more information here (******) regarding the potential waiting list for the parking permit.
 REQUIREMENTS: Please see under the tab ""rental conditions"" for the required documents to rent this property.
-No legal rights can be derived from the above text.",False,,Nieuwe Werk,rotterdam,621000.0,42.1875,4.0,-5.0,41,102.26200873362446,False,143.06,60.86833788209607
+No legal rights can be derived from the above text.",False,,Nieuwe Werk,rotterdam,621000.0,42.1875,14.0,-5.0,41,102.26200873362446,False,156.36,64.16833788209607
 https://www.pararius.com/apartment-for-rent/groningen/bbed343d/eelderstraat,1067.0,9726 CT,39.0,2,Upholstered,Unlimited period,,1881.0,1.0,"Shower
 Toilet",Not present,Not present,,B,Not present,Yes,Permit,No,"Description
 Apartment for rent in Groningen with 1 bedroom in the Badstratenbuurt district.",False,,Badstratenbuurt,groningen,240000.0,36.5625,8.0,-5.0,42,42.872690628149144,False,122.63,41.06361290728922
 https://www.pararius.com/apartment-for-rent/rotterdam/d86e82e9/immanuel-kantstraat,977.0,3076 DK,91.0,3,Upholstered,Unlimited period,,1965.0,1.0,,Present,Not present,,D,Not present,No,,No,"Description
-Lovely apartment with balcony for rent in Rotterdam with 2 bedrooms in the Lombardijen district.",False,,Lombardijen,rotterdam,231000.0,85.3125,4.0,0.0,14,26.08498488411152,False,129.4,26.08498488411152
+Lovely apartment with balcony for rent in Rotterdam with 2 bedrooms in the Lombardijen district.",False,,Lombardijen,rotterdam,231000.0,85.3125,4.0,2.0,14,26.08498488411152,False,131.4,26.08498488411152
 https://www.pararius.com/apartment-for-rent/eindhoven/954e94aa/grasplantsoen,995.0,5658 HE,52.0,2,Furnished,Unlimited period,,2004.0,1.0,"Shower
 Toilet",Not present,Not present,,A,Not present,Yes,Public,No,"Description
 Pleasant living close to #Brainport #ASML and #Airport Eindhoven?
@@ -788,7 +788,7 @@ On the landing is the small but complete kitchen with crockery and equipment. Li
 Bedroom: furnished with a double bed (140 x 200) - wardrobe. In short: a nice apartment for 1 non-smoking and responsible person.
 Acceptance: December 1st, 2024 for a minimum of 12 months
 Deposit: € 1245,= euros Registration on the broker's website is mandatory. Without this registration we cannot help you. PLEASE NOTE: 1 person - No Couples
-Viewings are only possible after registration via our own website. Unfortunately, due to large crowds, it is not possible without this registration. We hope for your understanding!",False,,Grasrijk,eindhoven,477000.0,48.75,8.0,-5.0,41,72.05710446758482,False,147.14,54.386344474302994
+Viewings are only possible after registration via our own website. Unfortunately, due to large crowds, it is not possible without this registration. We hope for your understanding!",False,,Grasrijk,eindhoven,477000.0,48.75,14.0,-5.0,41,72.05710446758482,False,155.12,56.36634447430299
 https://www.pararius.com/house-for-rent/wittem/b743c34f/rijksweg,1100.0,6286 AD,98.0,6,,,,1907.0,1.0,Mechanical ventilation,Not present,"Present (18 m², located on the north)",plaats,A,,Yes,Public,No,"Description
 Lovely house with garden for rent in Wittem with 3 bedrooms in the Wahlwiller district.",False,18.0,Wahlwiller,wittem,320000.0,91.875,4.0,8.3,41,36.258978700650566,False,181.43,36.258978700650566
 https://www.pararius.com/house-for-rent/noordwijk-zh/16c9a59a/zwarteweg,1000.0,2201 AB,47.0,2,Furnished,Unlimited period,,1992.0,1.0,"Internet connection
@@ -815,14 +815,14 @@ Rental period minimal 12 months
 Furnished
 No pets allowed
 No smoking allowed
-We don't charge any kind of costs to the tenant for the rental mediation and the conclusion of a rental agreement.",False,,Centrum,geldrop,467000.0,42.1875,8.0,-5.0,34,77.3178068898593,False,130.83,51.64675127365357
+We don't charge any kind of costs to the tenant for the rental mediation and the conclusion of a rental agreement.",False,,Centrum,geldrop,467000.0,42.1875,14.0,-5.0,34,77.3178068898593,False,138.81,53.62675127365357
 https://www.pararius.com/apartment-for-rent/houten/e5b9127d/albers-pistoriusweg,1150.0,3991 AW,33.0,1,Upholstered,,,2017.0,1.0,"Cable TV
 Fibre-optic connection
 Mechanical ventilation
 Shower
 Solar collectors
 Toilet",Present,Not present,,A++,Present,,,No,"Description
-Comfortable apartment with balcony for rent in Houten in the Schaften district.",False,,Schaften,houten,331000.0,30.9375,8.0,0.0,60,65.80044991398702,False,153.3,54.36352347161572
+Comfortable apartment with balcony for rent in Houten in the Schaften district.",False,,Schaften,houten,331000.0,30.9375,8.0,2.0,60,65.80044991398702,False,155.96,55.02352347161572
 https://www.pararius.com/apartment-for-rent/voorhout/b0e9b1d0/pieter-van-slingerlandstraat,995.0,2215 SZ,106.0,4,Furnished,,,2001.0,1.0,,,Not present,,A,,,,No,"Description
 Description: Nice short stay apartment in Voorhout for 3 months
 Layout:
@@ -855,7 +855,7 @@ Tip us a landlord and if 123Wonen is allowed to act as a rental agent there, you
 https://www.pararius.com/apartment-for-rent/groningen/d652fbeb/petrus-campersingel,1005.0,9713 AC,28.0,1,,,,1910.0,1.0,,Not present,,,A++,,,,,"Description
 Comfortable apartment for rent in Groningen in the Gorechtbuurt district.",False,,Gorechtbuurt,groningen,262000.0,26.25,4.0,0.0,60,58.860885839051775,False,139.46,49.20659232688709
 https://www.pararius.com/apartment-for-rent/hooglanderveen/a882435e/amendijk,975.0,3829 DS,66.0,2,,,,2024.0,1.0,,Present,,,B,,,,,"Description
-Beautiful apartment with balcony for rent in Hooglanderveen in the Hoekveen e.o. district.",False,,Hoekveen e.o.,hooglanderveen,549000.0,61.875,4.0,0.0,34,73.32393807066296,False,157.03,57.15564956331878
+Beautiful apartment with balcony for rent in Hooglanderveen in the Hoekveen e.o. district.",False,,Hoekveen e.o.,hooglanderveen,549000.0,61.875,4.0,2.0,34,73.32393807066296,False,159.69,57.81564956331878
 https://www.pararius.com/apartment-for-rent/zoetermeer/df42471f/europaweg,1045.0,2711 EP,40.0,2,,,,1990.0,1.0,"Lift
 Toilet",Not present,Not present,,A,,No,,,"Description
 Apartment for rent in Zoetermeer with 1 bedroom in the Stadscentrum district.",False,,Stadscentrum,zoetermeer,273000.0,37.5,4.0,-5.0,49,47.803493449781655,False,129.49,43.990152838427946
@@ -886,9 +886,9 @@ The house is close to the AZM (Randwyck), the center of Maastricht, train statio
 There is a shared kitchen, 2 showers and 2 toilets per floor.
 The room is 22m2size, fully furnished with a bed + mattress, closet, table and chair. In addition, the room has its own sink.
 Minimum rental period 6 months.
-The rent includes gas, water, electricity, internet, furniture, service costs etc.",False,,Heugem,maastricht,275000.0,20.625,4.0,-5.0,0,72.58515283842794,False,50.05,30.429350436681222
+The rent includes gas, water, electricity, internet, furniture, service costs etc.",False,,Heugem,maastricht,275000.0,20.625,8.0,-5.0,0,72.58515283842794,False,55.37,31.749350436681222
 https://www.pararius.com/apartment-for-rent/deventer/6755b6a8/twentsestraat,1125.0,7417 BL,72.0,3,,,,2024.0,1.0,,Present,,,A,,,,,"Description
-Beautiful apartment with balcony for rent in Deventer in the Hoornwerk district.",False,,Hoornwerk,deventer,334000.0,67.5,4.0,0.0,41,42.257156720038815,False,154.76,42.257156720038815
+Beautiful apartment with balcony for rent in Deventer in the Hoornwerk district.",False,,Hoornwerk,deventer,334000.0,67.5,4.0,2.0,41,42.257156720038815,False,156.76,42.257156720038815
 https://www.pararius.com/apartment-for-rent/wekerom/0b6fae45/otterloseweg,1025.0,6733 AM,55.0,2,Upholstered,Unlimited period,,1998.0,1.0,"Awnings
 Shower
 Sliding doors
@@ -907,7 +907,7 @@ Main features:
 Gas / water / electricity / internet / TV is in the name of the tenant
 Minimum rental period 12 months
 Registration is required
-For 1 person",False,,Markt,middelburg,183000.0,75.0,8.0,-5.0,14,21.989082969432314,False,113.99,21.989082969432314
+For 1 person",False,,Markt,middelburg,183000.0,75.0,14.0,-5.0,14,21.989082969432314,False,119.99,21.989082969432314
 https://www.pararius.com/apartment-for-rent/breda/e77078fd/markendaalseweg,886.0,4811 KB,45.0,2,,,,2020.0,1.0,,Not present,Not present,,A,,,,No,"Description
 Nice apartment for rent in Breda with 1 bedroom in the Chassé district.",False,,Chassé,breda,365000.0,42.1875,4.0,-5.0,41,60.41969917515769,False,129.25,47.06037572780204
 https://www.pararius.com/apartment-for-rent/naarden/9ec83ab3/zwarteweg,1150.0,1412 GD,42.0,2,,,,2024.0,1.0,,,,,A,,,,,"Description
@@ -938,7 +938,7 @@ Particularities:
 - Internet, alarm system and smoke detectors € 97,44 a month;
 - Advance heating costs € 122.56. a month;
 - Advance municipal taxes € 83.88. a month;
-123Wonen Twente hereby acts as a rental agent for the landlord.",False,100.0,Verspreide huizen Bentelo,bentelo,456000.0,60.9375,4.0,15.0,41,61.63486731609002,False,181.19,60.24888121430971
+123Wonen Twente hereby acts as a rental agent for the landlord.",False,100.0,Verspreide huizen Bentelo,bentelo,456000.0,60.9375,14.0,15.0,41,61.63486731609002,False,192.57,61.63486731609002
 https://www.pararius.com/apartment-for-rent/utrecht/e9478411/jutfaseweg,1158.0,3522 HR,47.0,1,,,,1970.0,1.0,,Not present,Present,achtertuin,A,,,,Yes,"Description
 At Jutfaseweg 202E in Utrecht, a charming, furnished apartment is ready for a new tenant. With a living area of 47 m², a spacious living room, and a separate bedroom, this property offers all the comfort you need. The rent is €1157.95 per month, with an additional charge of €150 for the furniture. The rent excludes gas, water, and electricity, as well as television and internet. The security deposit is twice the monthly rent. The property is available immediately until July 31, 2025, with a diplomatic clause.
 Surroundings:
@@ -987,7 +987,7 @@ Etten-Leur office
 Bisschipsmolenstraat 54
 4876 AP Etten-Leur
 076-300010
-******",False,90.0,Sint Philipsland,sint philipsland,260000.0,94.6875,4.0,15.0,-9,28.24129880236932,False,132.93,28.24129880236932
+******",False,90.0,Sint Philipsland,sint philipsland,260000.0,94.6875,14.0,15.0,-9,28.24129880236932,False,142.93,28.24129880236932
 https://www.pararius.com/apartment-for-rent/almelo/868c6ecf/oranjestraat,1150.0,7607 BH,100.0,3,Upholstered,,,1957.0,1.0,"Roof terrace
 Storage space
 Toilet",Not present,,,D,,Yes,Public,,"Description
@@ -1012,7 +1012,7 @@ Details:
 - Parking place on own ground
 - With use of outdoor space behind the house
 - You cant not register
-- 1 Month deposit",False,,Buitengebied Beneden-Leeuwen,beneden leeuwen,432000.0,148.125,4.0,0.0,-15,40.939638494278924,False,178.06,40.939638494278924
+- 1 Month deposit",False,,Buitengebied Beneden-Leeuwen,beneden leeuwen,432000.0,148.125,14.0,0.0,-15,40.939638494278924,False,188.06,40.939638494278924
 https://www.pararius.com/apartment-for-rent/utrecht/a6aa480d/oudegracht,1050.0,3511 AB,21.0,1,Furnished,Temporary rental,,1818.0,1.0,"Shower
 Toilet",Not present,Present (85 m²),,,Not present,No,,No,"Description
 Unique opportunity to live in an innovative concept on the canal in Utrecht! Luxury studios with shared kitchen and large city garden available.
@@ -1030,7 +1030,7 @@ On the second floor of a former eco boutique hotel, this room is located at the 
 Location
 In the middle of the old city center of Utrecht with many restaurants, stores, cinema and cafes around the corner. Central Station is also within walking distance. An ideal location for anyone who wants to get acquainted with the fantastic city of Utrecht.
 In summary, a very complete and beautiful house in the heart of Utrecht! For this property please contact HouseHunting Utrecht by email at ******.
-Although this text has been carefully prepared, no rights can be derived from this text. Measurements are indicative and not NEN measured. Allocation is subject to approval by the landlord / owner. Deposit amount may vary depending on profile. No pets allowed. Smoking not allowed. Rental agreement for a definite period. General conditions of ROZ applicable.",False,85.0,Wijk C,utrecht,454000.0,19.6875,8.0,15.0,-15,125.40632148055728,False,78.21,50.5209610885839
+Although this text has been carefully prepared, no rights can be derived from this text. Measurements are indicative and not NEN measured. Allocation is subject to approval by the landlord / owner. Deposit amount may vary depending on profile. No pets allowed. Smoking not allowed. Rental agreement for a definite period. General conditions of ROZ applicable.",False,85.0,Wijk C,utrecht,454000.0,19.6875,14.0,15.0,-15,125.40632148055728,False,86.19,52.5009610885839
 https://www.pararius.com/apartment-for-rent/arnhem/37f96585/lange-wal,893.0,6826 NB,70.0,3,Upholstered,,,1963.0,1.0,,Present,Not present,,A,,,,No,"Description
 nice 3 room flat available! Within walking distance of shopping centre Presikhaaf, public transport and several schools. Close to the centre of Arnhem and arterial roads.
 Layout:
@@ -1043,13 +1043,13 @@ Details:
 - No pets
 - The deposit is € 2005,12
 - ATTENTION: FOR THIS PROPERTY AN INCOME REQUIREMENT OF € 2.500,- GROSS PER MONTH IS APPLICABLE. If you do not meet this income requirement, there is unfortunately no point in applying for this property!
-Translated with ****** (free version)",False,,Presikhaaf III,arnhem,228000.0,65.625,4.0,0.0,41,29.22333125389894,False,139.85,29.22333125389894
+Translated with ****** (free version)",False,,Presikhaaf III,arnhem,228000.0,65.625,14.0,2.0,41,29.22333125389894,False,151.85,29.22333125389894
 https://www.pararius.com/apartment-for-rent/leiden/5dd55eba/rosenburch,983.0,2321 PX,54.0,2,Shell,,,1967.0,1.0,"Cable TV
 Lift
 Fibre-optic connection
 Awnings
 Toilet",Present,Not present,,C,,Yes,,,"Description
-Nice apartment with balcony for rent in Leiden with 1 bedroom in the Gasthuiswijk district.",False,,Gasthuiswijk,leiden,296000.0,50.625,4.0,0.0,22,43.936600355814335,False,116.41,39.785328117418736
+Nice apartment with balcony for rent in Leiden with 1 bedroom in the Gasthuiswijk district.",False,,Gasthuiswijk,leiden,296000.0,50.625,4.0,2.0,22,43.936600355814335,False,119.07,40.44532811741873
 https://www.pararius.com/apartment-for-rent/middelburg/1c2e6fb7/langeviele,890.0,4331 LR,58.0,2,Upholstered,Unlimited period,,2012.0,1.0,Shower,Not present,Not present,,C,Not present,Yes,Permit,No,"Description
 Nice apartment for rent in Middelburg with 1 bedroom in the Markt district.",False,,Markt,middelburg,183000.0,54.375,8.0,-5.0,22,25.778045475079054,False,105.15,25.778045475079054
 https://www.pararius.com/apartment-for-rent/maastricht/8c22f06c/brusselsestraat,1150.0,6211 PH,25.0,2,Upholstered,Unlimited period,,1850.0,1.0,"Shower
@@ -1086,7 +1086,7 @@ We are looking for neat candidates for the property. This can be working and/or 
 INTERESTED?
 You can leave a comment via the website by clicking on ‘Yes I am interested in this accommodation’. The timeline determines which candidates we can invite for the first selection. By phone, we cannot process your response.
 YOUTUBE
-To keep up to date with available living spaces, subscribe to our YouTube channel ****** free of charge. Turn on your notification to receive a notification when a new video is uploaded.",False,,Binnenstad-Noord,groningen,289000.0,36.5625,4.0,0.0,36,51.35919829806293,False,118.78,42.214160438360764
+To keep up to date with available living spaces, subscribe to our YouTube channel ****** free of charge. Turn on your notification to receive a notification when a new video is uploaded.",False,,Binnenstad-Noord,groningen,289000.0,36.5625,14.0,0.0,36,51.35919829806293,False,132.08,45.51416043836077
 https://www.pararius.com/house-for-rent/diepenveen/9b9ab4a5/lichtenbergerlaan,1125.0,7431 AK,127.0,3,Furnished,Temporary rental,,1971.0,1.0,"Bath
 Shower",Not present,Present,,C,Present,Yes,On private land,No,"Description
 Conveniently located house with garden for rent in Diepenveen with 3 bedrooms in the Dorp Diepenveen district.",False,,Dorp Diepenveen,diepenveen,502000.0,119.0625,14.0,2.0,22,51.260942818828866,False,208.32,51.260942818828866
@@ -1129,7 +1129,7 @@ This studio is 26m2 and is located on the ground floor of the house.
 The kitchenette is equipped with a sink, 2-burner stove and hood.
 The bathroom has a shower and toilet.
 The price includes gas, water, electricity, service charges, internet and furniture.
-minimum rental period 6 months",False,,Wittevrouwenveld,maastricht,256000.0,24.375,4.0,-5.0,36,59.99630500503863,False,98.77,39.39253065166275
+minimum rental period 6 months",False,,Wittevrouwenveld,maastricht,256000.0,24.375,14.0,-5.0,36,59.99630500503863,False,112.07,42.69253065166275
 https://www.pararius.com/apartment-for-rent/zwolle/55c065b9/almelose-kanaal,1000.0,8011 KS,42.0,3,,,,2003.0,1.0,,,,,,,,,,"Description
 BEAUTIFUL APARTMENT ON A HOUSEBOAT
 INTERESTED?
@@ -1148,7 +1148,7 @@ The apartment is located in a very unique spot on the water.
 The apartment is approximately 45m² in size and is situated on the first floor. In total, there are 4 apartments on the houseboat.
 The houseboat apartment is located in the center of Zwolle. The shopping street of Zwolle is literally just a few minutes' walk away. The Grote Markt, with its lively terraces, is a short distance further, and the station can be reached within 5 minutes.
 The apartment features a living room with an open kitchen. The two bedrooms are accessible via the hallway. The bathroom is equipped with a bath and shower, toilet, and sink. The entire apartment has central heating and its own boiler.
-In short, a unique apartment on the water located in the center of Zwolle!",False,,Wezenlanden,zwolle,386000.0,39.375,4.0,0.0,41,66.13308380120608,False,134.04,49.66766765439801
+In short, a unique apartment on the water located in the center of Zwolle!",False,,Wezenlanden,zwolle,386000.0,39.375,14.0,0.0,41,66.13308380120608,False,147.34,52.967667654398014
 https://www.pararius.com/house-for-rent/schaijk/0cc24de8/noordhoekstraat,1050.0,5374 SC,30.0,3,,,,2024.0,1.0,,,,,,,,,,"Description
     What do you want to do ?
 New mailCopy",False,,Verspreide huizen Schaijkse Heide,schaijk,478000.0,28.125,4.0,0.0,41,101.5778748180495,False,130.78,57.65194868995634
@@ -1193,7 +1193,7 @@ On the application form are requested m. B. t. your income. In addition to these
 Both the applicant and any partner should provide this information.
 Disclaimer
 No rights can be derived from the information provided. If you wish to have certainty about the information and timeliness thereof, please contact your Partner in Property Affairs.
-Your Partner in Real Property can not be held liable for any consequences or damage relating to the information",False,,Molenbuurt,wormer,302000.0,56.25,8.0,0.0,41,41.97962154294032,False,147.23,41.97962154294032
+Your Partner in Real Property can not be held liable for any consequences or damage relating to the information",False,,Molenbuurt,wormer,302000.0,56.25,14.0,2.0,41,41.97962154294032,False,155.23,41.97962154294032
 https://www.pararius.com/apartment-for-rent/eindhoven/44fac0f5/kruisstraat,900.0,5612 CH,15.0,2,Furnished,Temporary rental,,1980.0,1.0,,Not present,Not present,,,Not present,Yes,Paid,No,"Description
 Pleasant apartment for rent in Eindhoven with 1 bedroom in the Hemelrijken district.",False,,Hemelrijken,eindhoven,279000.0,14.0625,4.0,-5.0,-4,100.22270742358079,False,45.13,36.06411844978166
 https://www.pararius.com/apartment-for-rent/leiden/9b064791/hooigracht,995.0,2312 KV,45.0,1,Upholstered,Unlimited period,,1650.0,1.0,"Shower
@@ -1201,7 +1201,7 @@ Toilet",Not present,Not present,,C,Not present,No,,No,"Description
 Spacious studio (approx. 45m2) in the center of Leiden.
 The house has a semi-closed kitchen. Bathroom has a shower cabin, sink and toilet.
 Deposit €995
-Due to many responses, please respond by email!",False,,Pancras-West,leiden,444000.0,42.1875,8.0,-5.0,22,73.08588064046579,False,113.48,46.290215611353716
+Due to many responses, please respond by email!",False,,Pancras-West,leiden,444000.0,42.1875,14.0,-5.0,22,73.08588064046579,False,121.46,48.27021561135372
 https://www.pararius.com/apartment-for-rent/sappemeer/07291c0f/noorderstraat,1100.0,9611 AW,96.0,2,Shell,,,1839.0,1.0,Cable TV,Not present,Present (24 m²),achtertuin,C,,Yes,Public,,"Description
 Lovely apartment with garden for rent in Sappemeer with 2 bedrooms in the Polder De Nijverheid district.",False,24.0,Polder De Nijverheid,sappemeer,270000.0,90.0,4.0,10.399999999999999,22,30.28165938864629,False,156.68,30.28165938864629
 https://www.pararius.com/apartment-for-rent/assen/5dce4ab2/dr-a-f-philipsweg,960.0,9403 AC,66.0,4,Upholstered,,,1970.0,1.0,"Roof terrace
@@ -1228,7 +1228,7 @@ Pets are not allowed
 Note: If you're interested in renting a private apartment or room from Tuitman Vastgoed, please respond via the advertisement or by email with a detailed introduction about yourself, including a description of your income. Based on this information, we will decide whether or not to invite you for a viewing. If no information is provided, we will not respond. It is not possible to schedule a viewing by phone.
 Currently, there is a significant shortage of rental properties in the Netherlands. As a result, we receive a large number of inquiries from prospective tenants. Unfortunately, we may not be able to respond to every request, which means we may not be able to process your application. We ask for your understanding.
 Despite our careful preparation of the advertisement, there may be discrepancies between the final rental terms and the advertisement. The rental agreement is always binding. No rights can be derived from this advertisement.
-Good Landlordship: Tuitman Vastgoed holds a landlord's permit. All our rental prices in the rental agreement comply with current legislation. No rights can be derived from the rental prices mentioned in the advertisement.",False,,Havenkanaal Zuidzijde,assen,0.0,61.875,8.0,0.0,-15,0.0,False,54.88,0.0
+Good Landlordship: Tuitman Vastgoed holds a landlord's permit. All our rental prices in the rental agreement comply with current legislation. No rights can be derived from the rental prices mentioned in the advertisement.",False,,Havenkanaal Zuidzijde,assen,0.0,61.875,14.0,0.0,-15,0.0,False,60.88,0.0
 https://www.pararius.com/apartment-for-rent/roosendaal/9f7a0706/molenstraat,937.0,4701 JV,47.0,2,Upholstered,,,1950.0,1.0,,Not present,Not present,,A,,No,,,"Description
 Nice apartment for rent in Roosendaal with 1 bedroom in the Centrum-Oud district.",False,,Centrum-Oud,roosendaal,229000.0,44.0625,4.0,-5.0,41,36.27659574468085,False,120.34,36.27659574468085
 https://www.pararius.com/apartment-for-rent/groningen/ad04c77d/helper-oostsingel,1094.0,9722 AW,51.0,2,Upholstered,Unlimited period,,2021.0,1.0,"Shower
@@ -1256,7 +1256,7 @@ Security deposit equals 1 month’s rent
 Suitable for couples and starters
 Available immediately
 Interested?
-If this apartment has caught your interest, respond quickly to this ad. The rental agent will soon organize an open house.",False,,Helpman,groningen,283000.0,47.8125,8.0,-5.0,57,43.23152667180409,False,151.04,43.23152667180409
+If this apartment has caught your interest, respond quickly to this ad. The rental agent will soon organize an open house.",False,,Helpman,groningen,283000.0,47.8125,14.0,-5.0,57,43.23152667180409,False,157.04,43.23152667180409
 https://www.pararius.com/apartment-for-rent/arnhem/996002bc/goudensteinstraat,958.0,6825 CS,75.0,4,Upholstered,,,1968.0,1.0,Bath,Present,Not present,,C,,,,Yes,"Description
 Living in the popular district 'Over het Lange Water' in Arnhem-Noord? You can in this neat 4-room apartment with 2 bedrooms. The apartment complex is equipped with entrance, elevator, intercom system and mailboxes. The spacious balcony is located on the south-east so you can enjoy the sun for a large part of the day. Each apartment has its own storage room on the first floor. In addition, there are plenty of parking spaces available at the complex.
 Location:
@@ -1270,7 +1270,7 @@ Details:
 - The house is unfurnished.
 - The deposit is € 1.242,20, -.
 - No pets allowed
-- Smoking inside is not allowed",False,,Over het Lange Water,arnhem,234000.0,70.3125,10.0,0.0,22,29.624454148471614,False,131.94,29.624454148471614
+- Smoking inside is not allowed",False,,Over het Lange Water,arnhem,234000.0,70.3125,14.0,2.0,22,29.624454148471614,False,137.94,29.624454148471614
 https://www.pararius.com/apartment-for-rent/assen/a864f95f/zuiderpoort,944.0,9408 AA,54.0,2,,,,2009.0,1.0,,,,,,,,,,"Description
 MAXX: NICE & MODERN FLAT IN A CENTRAL LOCATION IN ASSEN FOR RENT
 INFORMATION
@@ -1296,7 +1296,7 @@ We are looking for neat candidates for the property. A guarantor is requested.
 INTEREST?
 You can leave a comment via the website by clicking ‘Yes I am interested’. The timeline determines which candidates we can invite for the first selection. By phone, we cannot consider your response.
 YOUTUBE
-To keep up to date with available living spaces, subscribe to our YouTube channel ****** free of charge. Turn on your notification to receive a notification when a new video is uploaded.",False,,Kloosterveste,assen,305000.0,50.625,4.0,0.0,41,44.66440239366003,False,140.29,44.66440239366003
+To keep up to date with available living spaces, subscribe to our YouTube channel ****** free of charge. Turn on your notification to receive a notification when a new video is uploaded.",False,,Kloosterveste,assen,305000.0,50.625,14.0,0.0,41,44.66440239366003,False,150.29,44.66440239366003
 https://www.pararius.com/apartment-for-rent/maastricht/0742ba69/florijnruwe,1159.0,6218 CJ,71.0,3,Upholstered,Unlimited period,,1967.0,1.0,Shower,Present,Not present,,D,Present,Yes,Public,No,"Description
 Spacious two-bedroom apartment with balcony, located on the 1st floor of a neat apartment complex, for rent from November 1, 2024.
 Layout:
@@ -1307,7 +1307,7 @@ The rent of the apartment is €1159,- incl. water, VvE and service costs. Exclu
 Additional information:
 - No pets
 - No students and/or house sharers
-- Energy label D",False,,Malberg,maastricht,243000.0,66.5625,8.0,0.0,14,30.945568608155483,False,119.51,30.945568608155483
+- Energy label D",False,,Malberg,maastricht,243000.0,66.5625,14.0,2.0,14,30.945568608155483,False,127.51,30.945568608155483
 https://www.pararius.com/apartment-for-rent/den-haag/834f23bf/van-der-hoopstraat,1150.0,2523 HE,66.0,3,Upholstered,Unlimited period,,1930.0,1.0,,Not present,Not present,,,Not present,No,,No,"Description
 Super nice light 3 room apartment available!
 Located in the green part of the Laakkwartier in The Hague.
@@ -1326,11 +1326,11 @@ Laundry room",Present,Not present,,A,Present,Yes,Garage,No,"Description
 This apartment is not available for students (regardless financial backing).
 Kralendijkkade, Leiden (approx. 50m2) € 1092,- Excl. G/W/E
 With a large supermarket on the ground floor and parking deck on the 1st floor the apartments start from the 2nd floor up. On the 4th floor is located this nice, light and especially brand new completed apartment. The entrance opens into the hall with access to the storage room with washing machine connection, bedroom and living room. The bright living room with modern open kitchen equipped with all modern conveniences including a dishwasher and oven microwave. The living room opens onto the balcony of 4m2 overlooking the new canal. The bathroom is equipped with toilet, shower and sink. The whole house is equipped with modern laminate flooring and will be rented including private storage.
-The complex is located directly on 'Het Plein' and offers 50 apartments. The area is realized as the new heart of Leiden North, a short distance from the center of Leiden, the main train station and major roads such as the A4 and A44 motorways. The Square is a wonderful place for people to work, shop and enjoy leisure time. For daily shopping facilities are next door. ""Het Plein"" Leiden has gotten a big makeover and a green character. There is a terrace with plants and trees on the square and at the front of the building there will be a new canal.",False,,De Kooi,leiden,307000.0,46.875,8.0,0.0,41,47.81222707423581,False,143.29,47.41678493449782
+The complex is located directly on 'Het Plein' and offers 50 apartments. The area is realized as the new heart of Leiden North, a short distance from the center of Leiden, the main train station and major roads such as the A4 and A44 motorways. The Square is a wonderful place for people to work, shop and enjoy leisure time. For daily shopping facilities are next door. ""Het Plein"" Leiden has gotten a big makeover and a green character. There is a terrace with plants and trees on the square and at the front of the building there will be a new canal.",False,,De Kooi,leiden,307000.0,46.875,14.0,2.0,41,47.81222707423581,False,151.69,47.81222707423581
 https://www.pararius.com/apartment-for-rent/groningen/3b8b8d4b/zuilen,1162.0,9716 KH,59.0,3,Upholstered,Unlimited period,,2017.0,1.0,Shower,Not present,Not present,,A,Present,Yes,Permit,No,"Description
 Apartment for rent in Groningen with 2 bedrooms in the De Hoogte district.",False,,De Hoogte,groningen,221000.0,55.3125,8.0,-5.0,41,31.35704240988824,False,130.67,31.35704240988824
 https://www.pararius.com/apartment-for-rent/roosendaal/81626d7b/vughtstraat,960.0,4701 NT,72.0,2,,,,1979.0,1.0,,Present,Not present,,B,,No,,,"Description
-Beautiful apartment with balcony for rent in Roosendaal with 1 bedroom in the Stationsbuurt district.",False,,Stationsbuurt,roosendaal,302000.0,67.5,4.0,0.0,34,38.3163512857836,False,143.82,38.3163512857836
+Beautiful apartment with balcony for rent in Roosendaal with 1 bedroom in the Stationsbuurt district.",False,,Stationsbuurt,roosendaal,302000.0,67.5,4.0,2.0,34,38.3163512857836,False,145.82,38.3163512857836
 https://www.pararius.com/apartment-for-rent/middelburg/1b550899/plein-1940,1025.0,4331 LH,80.0,3,Upholstered,Unlimited period,,1945.0,1.0,,Not present,Not present,,,Not present,Yes,Permit,No,"Description
 For rent: Spacious upstairs apartment with two bedrooms and a roof terrace in the heart of Middelburg!
 Location:
@@ -1349,7 +1349,7 @@ Second floor:
 Spacious landing with central heating boiler setup and access to both the two bedrooms and the bathroom.
 Both bedrooms are approximately 8 and 15 square meters.
 The bathroom is equipped with a shower cabin, sink and connection for a washing machine.
-Please feel free to contact us to schedule an appointment to come and take a look at this spacious apartment in a vibrant location:******",False,,Markt,middelburg,183000.0,75.0,4.0,-5.0,-15,21.989082969432314,False,80.99,21.989082969432314
+Please feel free to contact us to schedule an appointment to come and take a look at this spacious apartment in a vibrant location:******",False,,Markt,middelburg,183000.0,75.0,14.0,-5.0,-15,21.989082969432314,False,90.99,21.989082969432314
 https://www.pararius.com/apartment-for-rent/geleen/ff0b1f4b/ansemburgstraat,915.0,6161 EG,70.0,3,Upholstered,,,1935.0,1.0,Roof terrace,,Not present,,C,,,,No,"Description
 Completely renovated apartment in the center of Geleen
 Location:
@@ -1375,7 +1375,7 @@ Rental condition: income at least 3.5x the rent, whereby any partner's income is
 Property is delivered in neat condition.
 Please note, no pets are allowed and smoking is not allowed in the house!
 123Wonen Limburg acts as a rental agent for the owner with this accommodation. So no agency fees apply for this object. If you want to rent after the viewing, the deposit on the first rent is €150 to reserve the house.
-This description has been compiled with the utmost care. However, no rights can be derived from it. 123Wonen Limburg does not accept any liability for any incompleteness, inaccuracy or otherwise, or the consequences thereof.",False,,Geleen-Centrum,geleen,196000.0,65.625,4.0,0.0,22,25.227074235807862,False,116.85,25.227074235807862
+This description has been compiled with the utmost care. However, no rights can be derived from it. 123Wonen Limburg does not accept any liability for any incompleteness, inaccuracy or otherwise, or the consequences thereof.",False,,Geleen-Centrum,geleen,196000.0,65.625,14.0,0.0,22,25.227074235807862,False,126.85,25.227074235807862
 https://www.pararius.com/apartment-for-rent/bosschenhoofd/243fe2e7/amalialaantje,1050.0,4744 BW,88.0,3,,,,2022.0,1.0,"Fibre-optic connection
 Mechanical ventilation",Not present,Not present,,A+++,Present,,,Yes,"Description
 Lovely apartment for rent in Bosschenhoofd with 2 bedrooms in the Verspreide huizen Bosschenhoofd district.",False,,Verspreide huizen Bosschenhoofd,bosschenhoofd,530000.0,82.5,4.0,-5.0,57,62.30011909487892,False,200.8,62.30011909487892
@@ -1405,11 +1405,11 @@ Don’t wait any longer and make this studio on Hofstraat your new home!
 Please note: If you're interested in renting an independent home or room from Tuitman Vastgoed, respond via the ad or by email with a detailed introduction about yourself, including a description of your income. Based on this information, we will either invite you for a viewing or not. If no information is provided, we will not respond. IT IS NOT POSSIBLE TO SCHEDULE A VIEWING BY PHONE.
 At the moment, there is a significant shortage of rental properties in the Netherlands, resulting in a high number of requests from home seekers. Unfortunately, we are unable to respond to every request, which means we may not be able to process your application. We ask for your understanding.
 Despite our careful preparation of this advertisement, it is possible that final rental information may differ from the ad. The rental agreement is always binding. No rights can be derived from this advertisement.
-Good Landlord Practice: Tuitman Vastgoed holds a landlord permit. All rental prices in the agreement comply with current legislation. No rights can be derived from the rental prices in the advertisement.",False,,Binnenstad-Noord,groningen,289000.0,26.25,8.0,2.0,49,64.07174048658764,False,134.53,49.27617436057393
+Good Landlord Practice: Tuitman Vastgoed holds a landlord permit. All rental prices in the agreement comply with current legislation. No rights can be derived from the rental prices in the advertisement.",False,,Binnenstad-Noord,groningen,289000.0,26.25,14.0,2.0,49,64.07174048658764,False,142.51,51.25617436057393
 https://www.pararius.com/apartment-for-rent/arnhem/45a47b9c/vossenstraat,1149.0,6811 JD,84.0,3,,,,1997.0,1.0,"Shower
 Toilet
 Laundry room",Present,,,B,,,,,"Description
-Lovely apartment with balcony for rent in Arnhem with 2 bedrooms in the Weverstraat district.",False,,Weverstraat,arnhem,287000.0,78.75,8.0,0.0,34,33.919941775836975,False,154.67,33.919941775836975
+Lovely apartment with balcony for rent in Arnhem with 2 bedrooms in the Weverstraat district.",False,,Weverstraat,arnhem,287000.0,78.75,8.0,2.0,34,33.919941775836975,False,156.67,33.919941775836975
 https://www.pararius.com/apartment-for-rent/helmond/9f32db20/molenstraat,938.0,5701 KL,29.0,2,Upholstered,Unlimited period,,1920.0,1.0,,Present,Not present,,A,Present,No,,No,"Description
 A nice and recently renovated 1 bedroom appartment in the centre of Helmond. Located within walking distance of all imaginable facilities.
 The flat is part of a small complex and is located on the top floor.
@@ -1426,10 +1426,10 @@ Soft furnished
 Only suitable for couples or singles
 No pets allowed
 Smoking not allowed
-HouseHunting does not charge any kind of costs to tenant for the rental mediation and the conclusion of a lease",False,,Centrum,helmond,188000.0,27.1875,4.0,0.0,49,40.30898960999849,False,119.95,39.7638415712995
+HouseHunting does not charge any kind of costs to tenant for the rental mediation and the conclusion of a lease",False,,Centrum,helmond,188000.0,27.1875,14.0,2.0,49,40.30898960999849,False,132.5,40.30898960999849
 https://www.pararius.com/apartment-for-rent/maastricht/94e2fbb5/dorpstraat,995.0,6227 BM,90.0,1,Furnished,Unlimited period,,1960.0,1.0,Shower,Not present,Not present,,,Present,Yes,Public,No,"Description
 NO STUDENTS ALLOWED! Completely new furnished apartment (1 bedroom) near AZM and centrally located to highway. Entrance, stairs to 1st floor . En-suite room (+/- 32m2), fully furnished. Through the living room you have access to the fully equipped kitchen . Bathroom with shower. Separate toilet . 2nd floor access to the spacious and tastefully decorated bedroom. Laundry room with washing machine and dryer. Rental price: € 995,- excl. Other costs: € 300,- this includes: Gas, water and electricity. Internet and TV connection and fully furnished for this price.
-The information of this object have been prepared with care, but may deviate from reality, no rights can be derived from this information *",False,,Heer,maastricht,279000.0,84.375,8.0,-5.0,-15,32.53711790393013,False,104.91,32.53711790393013
+The information of this object have been prepared with care, but may deviate from reality, no rights can be derived from this information *",False,,Heer,maastricht,279000.0,84.375,14.0,-5.0,-15,32.53711790393013,False,110.91,32.53711790393013
 https://www.pararius.com/apartment-for-rent/nijmegen/cf096464/plein-1944,1150.0,6511 JB,40.0,2,Furnished,,,2019.0,1.0,"Roof terrace
 Shower
 Toilet",Not present,Not present,,A,,Yes,Public,No,"Description
@@ -1447,7 +1447,7 @@ Enclosed area with parking lots and bike storage
 Shared and private kitchen
 Energylabel A
 The rental price excludes € 250,00 per month for g/w/e, municipality taxes, internet, service charges and cleaning charges of the communal areas and kitchen.
-Are you interested in this property? And searching for a shortstay apartment? Then contact us for a non-obligational viewing!",False,,Stadscentrum,nijmegen,350000.0,37.5,8.0,-5.0,49,62.209606986899566,False,139.56,50.06417030567685
+Are you interested in this property? And searching for a shortstay apartment? Then contact us for a non-obligational viewing!",False,,Stadscentrum,nijmegen,350000.0,37.5,14.0,-5.0,49,62.209606986899566,False,147.54,52.04417030567686
 https://www.pararius.com/apartment-for-rent/breda/a6f1cfdd/concordiastraat,918.0,4811 NA,44.0,2,,,,2020.0,1.0,,Not present,Not present,,A,,,,No,"Description
 Nice apartment for rent in Breda with 1 bedroom in the Chassé district.",False,,Chassé,breda,365000.0,41.25,4.0,-5.0,41,61.22469233822946,False,128.27,47.016648471615724
 https://www.pararius.com/apartment-for-rent/purmerend/20424e81/nieuwstraat,965.0,1441 CK,56.0,2,Furnished,Temporary rental,,1979.0,1.0,"Lift
@@ -1467,7 +1467,7 @@ Sunny southwest-facing balcony.
 Shared storage space on the same floor.
 Maximum 2 adults.
 1 small pet (cat or small dog) is allowed, provided it is house-trained and well-behaved. No large pets.
-Interested? Contact us for more information or to schedule a viewing!",False,,Binnenstad,purmerend,308000.0,52.5,8.0,0.0,22,45.0174672489083,False,124.58,42.08076419213974
+Interested? Contact us for more information or to schedule a viewing!",False,,Binnenstad,purmerend,308000.0,52.5,14.0,2.0,22,45.0174672489083,False,135.22,44.72076419213974
 https://www.pararius.com/apartment-for-rent/groningen/f6682c6e/heresingel,1000.0,9711 EV,50.0,2,,Temporary rental,,1885.0,1.0,,Not present,Present,,,,,,,"Description
 Living on the Heresingel in Groningen: Your Ideal City Home for 12 Months
 Have you been looking for the perfect place to live for a while? We have exactly what you need - an apartment available for up to 12 months from 01-08-2024. This great apartment is located on the Heresingel in bustling Groningen, just a stone's throw from the heart of the city.
@@ -1484,7 +1484,7 @@ There is currently a major shortage of rental properties in the Netherlands. As 
 Although our advertisement is drawn up with care, it is possible that information in the final rental may differ from the advertisement. The rental agreement is always leading. No rights can be derived from this advertisement.
 Good landlordship: Tuitman Vastgoed has a landlord's permit. All our rental prices in the rental agreement are in accordance with applicable legislation. No rights can be derived from the rental prices in the advertisement.",False,,Binnenstad-Zuid,groningen,283000.0,46.875,4.0,2.0,-15,43.71615720524018,False,64.8,26.925081877729262
 https://www.pararius.com/apartment-for-rent/dordrecht/d2067c4e/tjongerstraat,985.0,3313 BK,77.0,3,,,,1970.0,1.0,,Present,,,G,,,,,"Description
-Beautiful apartment with balcony for rent in Dordrecht in the Merwedepolder-Oost district.",False,,Merwedepolder-Oost,dordrecht,224000.0,72.1875,4.0,0.0,-15,27.703453751488688,False,88.89,27.703453751488688
+Beautiful apartment with balcony for rent in Dordrecht in the Merwedepolder-Oost district.",False,,Merwedepolder-Oost,dordrecht,224000.0,72.1875,4.0,2.0,-15,27.703453751488688,False,90.89,27.703453751488688
 https://www.pararius.com/apartment-for-rent/alkmaar/a6b3109e/verdronkenoord,925.0,1811 BE,39.0,2,Upholstered,,,1901.0,1.0,"Shower
 Toilet",Not present,Not present,,C,,Yes,Paid,Yes,"Description
 Beautiful 2-room apartment available in a monumental building on the water of the Verdronkenoord with a parking space in the beautiful city center of Alkmaar!
@@ -1519,7 +1519,7 @@ Is it possible to live comfortably in a building with history? Yes, and in the h
 On the water at Verdronkenoord 28, the Segesta Group has again succeeded in realizing twelve apartments with the living comfort of today, combined with the atmosphere of the past.
 Heart of Alkmaar
 At the end of the Verdronkenoord you are in the heart of Alkmaar. The Platte Stenen bridge, the Waagplein and D'Oude stad, with numerous cafes and restaurants and in the summer the world-famous cheese market. The extensive shopping area around Laat and Langestraat is also nearby.
-An ideal residential location for anyone who loves the living comfort of today and the atmosphere and appearance of the past.",False,,Binnenstad-Oost,alkmaar,361000.0,36.5625,8.0,-5.0,36,64.42100548650767,False,121.76,46.19455681054754
+An ideal residential location for anyone who loves the living comfort of today and the atmosphere and appearance of the past.",False,,Binnenstad-Oost,alkmaar,361000.0,36.5625,14.0,-5.0,36,64.42100548650767,False,129.74,48.174556810547536
 https://www.pararius.com/apartment-for-rent/deventer/ba440b15/p-c-hooftlaan,931.0,7412 PN,75.0,3,,,,1958.0,1.0,,,,,B,,,,,"Description
 Beautiful apartment for rent in Deventer in the Schrijversbuurt district.",False,,Schrijversbuurt,deventer,225000.0,70.3125,4.0,0.0,34,28.100436681222707,False,136.41,28.100436681222707
 https://www.pararius.com/room-for-rent/maastricht/6969ddc8/dorpstraat,936.0,6227 BP,17.0,1,Furnished,Unlimited period,,0.0,1.0,"Internet connection
@@ -1529,9 +1529,9 @@ This property is conveniently located to the city center and UM.
 The room is located on the first floor of the building, 16,5m2 size and fully furnished with a bed + mattress, closet, table and chair. The room also has a kitchenette and separate sink.
 There are two large shared kitchens, 4 showers, 4 toilets and a shared garden where you can store your bike safely and dry. You share the house with 13 fellow students.
 Minimum rental period 6 months
-Including internet, GWE, furniture, use washing machine, service costs etc.",False,,Heer,maastricht,279000.0,15.9375,4.0,-5.0,0,90.66709478551246,False,49.79,34.84951627921912
+Including internet, GWE, furniture, use washing machine, service costs etc.",False,,Heer,maastricht,279000.0,15.9375,8.0,-5.0,0,90.66709478551246,False,55.11,36.16951627921912
 https://www.pararius.com/apartment-for-rent/rotterdam/f39cff9f/strevelsweg,995.0,3075 AJ,26.0,1,Furnished,Unlimited period,,1926.0,1.0,Internet connection,Present,Not present,,,Not present,Yes,Paid,No,"Description
-Comfortable apartment with balcony for rent in Rotterdam in the Vreewijk district.",False,,Vreewijk,rotterdam,251000.0,24.375,4.0,0.0,-15,59.15653342290897,False,37.31,23.935406029559964
+Comfortable apartment with balcony for rent in Rotterdam in the Vreewijk district.",False,,Vreewijk,rotterdam,251000.0,24.375,4.0,2.0,-15,59.15653342290897,False,39.97,24.595406029559964
 https://www.pararius.com/apartment-for-rent/eindhoven/152d7c75/pisanostraat,938.0,5623 CJ,51.0,2,Upholstered,Unlimited period,,2014.0,1.0,,Not present,Not present,,A,Not present,No,,No,"Description
 Luxurious Apartments with Private Parking in the Heart of Eindhoven
 Discover the allure of living in a prime location in Eindhoven, within walking distance of the vibrant city center. Pisanostraat features modern apartments that cater to the desires of many. Each apartment comes with a fully equipped kitchen, and bathroom, offering the perfect blend of comfort and style.
@@ -1554,7 +1554,7 @@ No pets allowed
 No smoking allowed
 The property may be slightly different than the pictures. (no rights can be derived)
 The broker does not charge any kind of costs to the tenant for the rental mediation and the conclusion of a rental agreement.
-Images may differ slightly from reality",False,,Rapenland,eindhoven,264000.0,47.8125,4.0,-5.0,41,40.604675057796044,False,128.42,40.604675057796044
+Images may differ slightly from reality",False,,Rapenland,eindhoven,264000.0,47.8125,10.0,-5.0,41,40.604675057796044,False,134.42,40.604675057796044
 https://www.pararius.com/apartment-for-rent/rotterdam/9a145da8/heemskerkstraat,1164.0,3038 VB,72.0,2,Upholstered,,,1933.0,1.0,,Present,Not present,,,,No,,,"Description
 Super nice 2-room apartment available in Rotterdam Noord! Near the house you will find the great Blijdorp zoo. Various shops on the Stadhoudersweg and arterial roads can also be found near the house. Perfect apartment for a couple!
 LAYOUT: Entrance at street level, you enter the common area. You take the stairs to the 1st floor. front door, entrance apartment in the hall. Living room en-suite which is separated from each other by sliding separation of a total of approximately. 40 m². From the dining room you have access to the cozy balcony located at the rear through French doors. Separate kitchen unit which is equipped with a hob, refrigerator, extractor hood, freezer, oven and dishwasher. The separate toilet is located in the hall. From the common hall you take the stairs to the 3rd floor. Front door, entrance second part apartment in the spacious bedroom of approximately. 17 m². Hallway with entrance to the shower and second separate toilet.
@@ -1573,7 +1573,7 @@ RENTAL CONDITIONS:
 - No pets allowed
 REQUIREMENTS:
 See under the tab “rental conditions” which documents are required for renting this house.
-* No legal rights can be derived from the above text",False,,Bergpolder,rotterdam,310000.0,67.5,4.0,0.0,-15,39.8015526443474,False,88.28,31.779512372634642
+* No legal rights can be derived from the above text",False,,Bergpolder,rotterdam,310000.0,67.5,8.0,2.0,-15,39.8015526443474,False,96.26,33.759512372634646
 https://www.pararius.com/apartment-for-rent/haarlem/3857d276/azieweg,909.0,2037 XZ,60.0,2,Upholstered,Unlimited period,,1973.0,1.0,"Intercom
 Shower",Present,Not present,,A+++,Not present,Yes,,No,"Description
 IMPORTANT
@@ -1606,7 +1606,7 @@ ABOUT THE CONTRACT
 Indefinite term, minimum stay of 12 months
 Deposit: €1100
 MORE INFORMATION
-Are you interested in renting this apartment or do you want to view this apartment? Contact us!",False,,Winkelcentrum Schalkwijk,haarlem,251000.0,56.25,8.0,0.0,57,35.26783114992722,False,156.52,35.26783114992722
+Are you interested in renting this apartment or do you want to view this apartment? Contact us!",False,,Winkelcentrum Schalkwijk,haarlem,251000.0,56.25,8.0,2.0,57,35.26783114992722,False,158.52,35.26783114992722
 https://www.pararius.com/apartment-for-rent/eindhoven/716e7d12/beukenlaan,1025.0,5616 VC,22.0,1,Furnished,Temporary rental,,1989.0,1.0,"Shower
 Toilet",Not present,Present,,C,Present,No,,No,"Description
 SHORT-STAY OFFER
@@ -1639,7 +1639,7 @@ Max. 1 person
 No pets allowed
 No smoking allowed
 The property may be slightly different than the pictures. (no rights can be derived)
-We don't charge any kind of costs to the tenant for the rental mediation and the conclusion of a rental agreement.",False,,Schoot,eindhoven,289000.0,20.625,8.0,2.0,36,76.36403334656609,False,113.81,47.18638100436681
+We don't charge any kind of costs to the tenant for the rental mediation and the conclusion of a rental agreement.",False,,Schoot,eindhoven,289000.0,20.625,14.0,2.0,36,76.36403334656609,False,121.79,49.16638100436681
 https://www.pararius.com/house-for-rent/eindhoven/d73faf97/boschdijk,1075.0,5612 HA,25.0,1,Furnished,Temporary rental,,1989.0,1.0,Shower,Not present,Not present,,D,Not present,No,,No,"Description
 SHORT-STAY OFFER
 **The property is ONLY for people who are new to the Netherlands (1st-year students/first-year working)**
@@ -1672,7 +1672,7 @@ In Geleen, on the Rijksweg Zuid, a beautiful luxurious and modern apartment comp
 The energy label is A++++ and each apartment has its own solar panels. All this in a very convenient and attractive location almost in the center of Geleen. Amenities such as supermarkets, restaurants and shops are 5 minutes away. The rental prices of the apartments vary from € 960 to € 1295, including service costs per month. The apartment is delivered 'unfurnished' with a modern PVC floor, fixed lighting, curtains and sanitary accessories. The modern kitchen is equipped with a refrigerator, combination oven/microwave, extractor hood, induction hob, dishwasher and sufficient storage space. The bathroom has a modern walk-in shower, sink with bathroom furniture and hanging toilet.There are electric radiators in the bedroom and bathroom and a ceiling unit in the living room/kitchen that can also cool.
 Each apartment has its own parking space and 5 apartments at the back of the building have a terrace and garden. There is also a shared bicycle shed and place for waste.
 Details: prices include parking, service costs and furnishings, but exclude electricity, water and internet. Minimum rental period 12 months - Deposit is 2 months rent.
-For more information call ****** or email ******",False,,Geleen-Centrum,geleen,196000.0,46.875,8.0,-5.0,62,30.117903930131003,False,141.99,30.117903930131003
+For more information call ****** or email ******",False,,Geleen-Centrum,geleen,196000.0,46.875,14.0,-5.0,62,30.117903930131003,False,147.99,30.117903930131003
 https://www.pararius.com/house-for-rent/almelo/1f1e05b6/de-graspieper,995.0,7609 SC,90.0,4,Upholstered,Unlimited period,,1981.0,1.0,"Shower
 Toilet",Not present,Present,,C,Present,No,,No,"Description
 Lovely house with garden for rent in Almelo with 3 bedrooms in the Leemslagen Noord district.",False,,Leemslagen Noord,almelo,212000.0,84.375,8.0,2.0,22,24.286268801552644,False,140.66,24.286268801552644
@@ -1687,7 +1687,7 @@ Details:
 - Very neat and spacious apartment
 - Balcony from the living room
 - Contribution VVE costs € 55,- p.m.
-- Deposit 2 monts rent",False,,Raamsdonksveer,raamsdonksveer,334000.0,67.5,4.0,0.0,41,42.257156720038815,False,154.76,42.257156720038815
+- Deposit 2 monts rent",False,,Raamsdonksveer,raamsdonksveer,334000.0,67.5,14.0,0.0,41,42.257156720038815,False,164.76,42.257156720038815
 https://www.pararius.com/apartment-for-rent/vries/aa3f85f7/raadhuisplein,1100.0,9481 BG,67.0,3,Upholstered,,,2021.0,1.0,"Shower
 Storage space
 Toilet",Not present,"Present (7 m², located on the east)",voortuin,B,,Yes,Public,,"Description
@@ -1720,6 +1720,6 @@ No smoking allowed
 Temporary contract
 We don't charge any kind of costs to the tenant for the rental mediation and the conclusion of a rental agreement.",False,,Limbeek-Zuid,eindhoven,281000.0,23.4375,8.0,-5.0,32,68.08296943231441,False,100.19,41.751754912663756
 https://www.pararius.com/apartment-for-rent/leiden/d5c26dd1/doelensteeg,1150.0,2311 VL,39.0,2,,,,2024.0,1.0,,Present,,,G,,,,,"Description
-Apartment with balcony for rent in Leiden in the Academiewijk district.",False,,Academiewijk,leiden,464000.0,36.5625,4.0,0.0,-15,82.95386854775501,False,61.37,35.81040162075915
+Apartment with balcony for rent in Leiden in the Academiewijk district.",False,,Academiewijk,leiden,464000.0,36.5625,4.0,2.0,-15,82.95386854775501,False,64.03,36.470401620759155
 https://www.pararius.com/apartment-for-rent/amstelveen/0c8e9d83/marne,1032.0,1186 PB,55.0,2,,,,1972.0,1.0,,Not present,Not present,,C,,,,No,"Description
 Nice apartment for rent in Amstelveen with 1 bedroom in the Watercirkelbuurt district.",False,,Watercirkelbuurt,amstelveen,424000.0,51.5625,4.0,-5.0,22,62.66415244144502,False,117.19,44.62479530567686
