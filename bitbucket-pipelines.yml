@@ -1,11 +1,18 @@
-pipelines:
-  scheduled:
-    - cron: "0 17 * * 5"   # Cron expression for Friday at 17:00 UTC
-      step:
-        name: "Run Python Script"
-        image: python:3.9   # Use the desired Python version
-        caches:
-          - pip             # Cache pip dependencies
-        script:
-          - pip install -r requirements.txt  # Install dependencies
-          - python main.py                   # Run your Python script
+# pipelines:
+#   scheduled:
+#     - cron: "0 17 * * 5"   # Cron expression for Friday at 17:00 UTC
+#       step:
+#         name: "Run Python Script"
+#         image: python:3.9   
+#         caches:
+#           - pip            
+#         script:
+#           - pip install -r requirements.txt  
+#           - python main.py                   
+
+# definitions:
+#   services:
+#     selenium-chrome:
+#       image: selenium/standalone-chrome:3.141.59-oxygen
+#       ports:
+#         - "4444:4444"  # Expose Selenium port
