@@ -78,3 +78,4 @@ Het toegangspunt voor het uitvoeren van de scraper is via `main.py`, waar het we
 - **Error handling**: Pagina's die niet kunnen worden geladen of resulteren in time-outs beter afhandelen.
 - **Parallel verwerking**: Het scrapen kan worden versneld door het parallel uitvoeren van de gegevensverzameling via meerdere threads.
 - **Uitbreiden van filters**: Filters toevoegen op basis van stad, prijs, enzovoorts.
+- **Price details verzamelen**: Sommige advertenties hebben informatie over wat er bij de huurprijs is inbegrepen (gas, electriciteit, water, etc.)
