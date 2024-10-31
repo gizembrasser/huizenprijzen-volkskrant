@@ -24,8 +24,8 @@ def save_html(csv_file):
                 continue
 
             # Extract the last segment of the URL path for naming the file
-            url_path = urlparse(url).path.strip('/')
-            filename = url_path.split('/')[-1] + '.html'
+            url_path = urlparse(url).path.strip('/').split('/')
+            filename = f"{url_path[-2]}_{url_path[-1]}.html"
 
             # Save the webpage content as an HTML file
             with open(f"../data/html/{filename}", mode="w", encoding="utf-8") as f:
