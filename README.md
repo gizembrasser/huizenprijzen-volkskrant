@@ -41,11 +41,8 @@ Er zijn twee beschikbare opdrachten die je via de command line kunt uitvoeren:
    Om de links van alle Pararius-huurwoningadvertenties te verzamelen en vervolgens de informatie voor elke woning op te slaan als CSV-bestand, gebruik je het `collect_listings` commando:
 
    ```bash
-   python main.py collect_listings --links_file_path --csv_file_path
+   python main.py collect_listings --city
    ```
-
-   - `links_file_path`: Pad om de verzamelde links op te slaan.
-   - `csv_file_path`: Pad om de verzamelde gegevens als CSV-bestand op te slaan.
 
 2. **HTML-bestanden lokaal opslaan**  
    Om de HTML-bestanden van elke woningadvertentie lokaal op te slaan, gebruik je het `save_html` commando. Zorg ervoor dat de CSV een kolom `Link` bevat die naar de advertentielinks verwijst:

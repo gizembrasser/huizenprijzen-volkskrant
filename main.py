@@ -15,12 +15,8 @@ def main():
     # Subcommand to collect data from pararius listings
     collect_parser = subparsers.add_parser("collect_listings", help="Collect data from pararius listings and save it to a CSV file.")
     collect_parser.add_argument(
-        "--links_file_path", type=str, required=True,
-        help="Path to save the collected links file."
-    )
-    collect_parser.add_argument(
-        "--csv_file_path", type=str, required=True,
-        help="Path to save the collected listings data as a CSV file."
+        "--city", type=str, default="nederland",
+        help="Specify the city for the Pararius URL. Default is 'nederland'."
     )
 
     # Subcommand to locally save the listings as HTML files
@@ -33,10 +29,13 @@ def main():
     args = parser.parse_args()
 
     if args.command == "collect_listings":
+        # Set the URL based on the city provided
+        base_url = f"https://www.pararius.com/apartments/{args.city.lower()}"
+
         links_file_path = os.path.join(data_folder, 'pararius_links.txt')
         csv_file_path = os.path.join(data_folder, 'pararius_listings2.csv')
 
-        driver.get("https://www.pararius.com/apartments/nederland")
+        driver.get(base_url)
 
         accept_cookies(driver)
 
