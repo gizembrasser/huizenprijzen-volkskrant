@@ -106,7 +106,7 @@ def visit_links(driver, links_file_path, csv_file_path):
     # Open the CSV file for writing
     with open(csv_file_path, mode='w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
-        writer.writerow(['Link', 'Huurprijs', 'Prijs details', 'Locatie', 'm2', 'Kamers', 'Interieur', 'Huurovereenkomst', 'Type woning', 'Bouwjaar', 'Badkamers', 'Faciliteiten', 'Balkon', 'Tuin', 'Omschrijving tuin', 'Energie label', 'Opslag', 'Parkeren', 'Type parkeerplaats', 'Garage', 'Beschrijving'])
+        writer.writerow(['Link', 'Huurprijs', 'Prijs details', 'Locatie', 'm2', 'Kamers', 'Specificaties', 'Huurovereenkomst', 'Bouwjaar', 'Badkamers', 'Faciliteiten', 'Balkon', 'Tuin', 'Energie label', 'Opslag', 'Parkeren', 'Type parkeerplaats', 'Garage', 'Beschrijving'])
 
         # Loop through each link and extract details
         for index, link in enumerate(links, start=1):
@@ -130,15 +130,16 @@ def visit_links(driver, links_file_path, csv_file_path):
                 location = safe_find(driver, By.CLASS_NAME, "listing-detail-summary__location")
                 size = safe_find(driver, By.CLASS_NAME, "illustrated-features__item--surface-area")
                 rooms = safe_find(driver, By.CLASS_NAME, "illustrated-features__item--number-of-rooms")
-                interior = safe_find(driver, By.CLASS_NAME, "illustrated-features__item--interior")
+                specifics = safe_find(driver, By.CLASS_NAME, "listing-features__description--specifics", By.CLASS_NAME, "listing-features__main-description")
+                # interior = safe_find(driver, By.CLASS_NAME, "illustrated-features__item--interior")
                 rental_type = safe_find(driver, By.CLASS_NAME, "listing-features__description--contract_duration", By.CLASS_NAME, "listing-features__main-description")
-                house_type = safe_find(driver, By.CLASS_NAME, "listing-features__description--property_types", By.CLASS_NAME, "listing-features__main-description")
+                # house_type = safe_find(driver, By.CLASS_NAME, "listing-features__description--property_types", By.CLASS_NAME, "listing-features__main-description")
                 construction_year = safe_find(driver, By.CLASS_NAME, "listing-features__description--construction_period", By.CLASS_NAME, "listing-features__main-description")
                 bathrooms = safe_find(driver, By.CLASS_NAME, "listing-features__description--number_of_bathrooms", By.CLASS_NAME, "listing-features__main-description")
                 facilities = safe_find(driver, By.CLASS_NAME, "listing-features__description--facilities", By.CLASS_NAME, "listing-features__main-description")
                 balcony = safe_find(driver, By.CLASS_NAME, "listing-features__description--balcony", By.CLASS_NAME, "listing-features__main-description")
                 garden = safe_find(driver, By.CLASS_NAME, "listing-features__description--garden", By.CLASS_NAME, "listing-features__main-description")
-                garden_type = safe_find(driver, By.CLASS_NAME, "listing-features__description--garden_description", By.CLASS_NAME, "listing-features__main-description")
+                # garden_type = safe_find(driver, By.CLASS_NAME, "listing-features__description--garden_description", By.CLASS_NAME, "listing-features__main-description")
                 energy = safe_find(driver, By.XPATH, "//*[contains(@class, 'listing-features__description--energy-label')]", By.CLASS_NAME, "listing-features__main-description")
                 storage = safe_find(driver, By.CLASS_NAME, "listing-features__description--storage", By.CLASS_NAME, "listing-features__main-description")
                 parking = safe_find(driver, By.CLASS_NAME, "page__details--parking", By.CLASS_NAME, "listing-features__main-description")
@@ -146,7 +147,7 @@ def visit_links(driver, links_file_path, csv_file_path):
                 garage = safe_find(driver, By.CLASS_NAME, "page__details--garage", By.CLASS_NAME, "listing-features__main-description")
                 description = safe_find(driver, By.CLASS_NAME, "listing-detail-description__additional")
 
-                writer.writerow([link, price, price_details, location, size, rooms, interior, rental_type, house_type, construction_year, bathrooms, facilities, balcony, garden, garden_type, energy, storage, parking, parking_type, garage, description])
+                writer.writerow([link, price, price_details, location, size, rooms, specifics, rental_type, construction_year, bathrooms, facilities, balcony, garden, energy, storage, parking, parking_type, garage, description])
 
             except Exception as e:
                 print(f"Error visiting link: {link}, {e}")
