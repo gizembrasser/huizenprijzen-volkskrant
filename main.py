@@ -2,6 +2,7 @@ import os
 import argparse
 from pararius_scraper import driver, accept_cookies, collect_links, visit_links
 from utils.save_html import save_html
+from utils.filters import validate_price_filter
 
 data_folder = os.path.join(os.getcwd(), 'data')
 if not os.path.exists(data_folder):
@@ -18,6 +19,14 @@ def main():
         "--city", type=str, default="nederland",
         help="Specify the city for the Pararius URL. Default is 'nederland'."
     )
+    collect_parser.add_argument(
+        "--min_price", type=int, default=None,
+        help="Specify the minimum price filter for the rental listings."
+    )
+    collect_parser.add_argument(
+        "--max_price", type=int, default=None,
+        help="Specify the maximum price filter for the rental listings."
+    )
 
     # Subcommand to locally save the listings as HTML files
     save_html_parser = subparsers.add_parser("save_html", help="Save HTML pages from a CSV file.")
@@ -29,8 +38,17 @@ def main():
     args = parser.parse_args()
 
     if args.command == "collect_listings":
-        # Set the URL based on the city provided
+        # Validate the min and max price values for filtering
+        try:
+            min_price, max_price = validate_price_filter(args.min_price, args.max_price)
+        except ValueError as e:
+            print(e)
+            return
+        
+        # Construct the URL with city and price filter
         base_url = f"https://www.pararius.com/apartments/{args.city.lower()}"
+        if min_price and max_price:
+            base_url += f"/{min_price}-{max_price}"
 
         links_file_path = os.path.join(data_folder, 'pararius_links.txt')
         csv_file_path = os.path.join(data_folder, 'pararius_listings2.csv')
