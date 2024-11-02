@@ -51,7 +51,7 @@ def main():
             base_url += f"/{min_price}-{max_price}"
 
         links_file_path = os.path.join(data_folder, 'pararius_links.txt')
-        csv_file_path = os.path.join(data_folder, 'pararius_listings2.csv')
+        csv_file_path = os.path.join(data_folder, 'pararius_listings02112024.csv')
 
         driver.get(base_url)
 
