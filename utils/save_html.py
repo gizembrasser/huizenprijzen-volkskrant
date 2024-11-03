@@ -37,4 +37,4 @@ def save_html(csv_file):
             print(f"Failed to retrieve {url}: {e}")
 
 
-# save_html("../data/clean/boven_middenhuur_punten.csv")
+# save_html("../data/pararius_listings02112024.csv")
