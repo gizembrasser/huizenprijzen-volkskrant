@@ -56,36 +56,51 @@ Er zijn twee beschikbare opdrachten die je via de command line kunt uitvoeren:
 
    - `csv_file`: Pad naar het CSV-bestand met een `Link`-kolom.
 
-### Analyse
+## Analyse
 
-In het bestand `analysis.ipynb` wordt het CSV bestand ingeladen, omgezet als DataFrame en vervolgens opgeschoond. Verschillende filters kunnen worden toegepast op de data.
+In het bestand `analysis.ipynb` wordt het ruwe CSV bestand ingeladen, omgezet als DataFrame en vervolgens opgeschoond. Verschillende filters worden toegepast op de data om visualisaties te maken.
+
+Voor de analyse wordt van elke huurwoning een schatting gemaakt van de puntentelling op basis van het woningwaarderingstelsel. 
 
 ## Verzamelde gegevens
 
-De scraper verzamelt de volgende gegevens van elke huuradvertentie voor de CSV:
+Het resultaat is een CSV bestand met de volgende kolommen:
 
 - **Link**: URL van de woningadvertentie.
 - **Huurprijs**: De huurprijs.
-- **Locatie**: Postcode en buurt.
+- **Prijs details**: Welke kosten er inbegrepen zijn in de huurprijs (servicekosten, water, gas, enzovoorts).
+- **Locatie**: Postcode van de woning.
+- **Specificaties**: Overige informatie over de woning (bijvoorbeeld monumentstatus).
 - **m²**: Oppervlakte van de woning in vierkante meters.
 - **Kamers**: Aantal kamers.
-- **Interieur**: Kaal, gestoffeerd of gemeubileerd.
-- **Huurovereenkomst**: Duur van de huurovereenkomst.
-- **Type woning**: Appartement, vrijstaande woning, enzovoorts.
+- **Interieur (optioneel)**: Kaal, gestoffeerd of gemeubileerd.
+- **Huurovereenkomst**: Duur van het huurcontract.
+- **Type woning (optioneel)**: Appartement, vrijstaande woning, enzovoorts.
 - **Bouwjaar**: Bouwjaar van de woning.
 - **Badkamers**: Aantal badkamers.
-- **Faciliteiten**: Aanwezige faciliteiten in de woning.
+- **Faciliteiten**: Aanwezige faciliteiten in de woning (bad, douche, glasvezel, enzovoorts).
 - **Balkon**: Aanwezigheid van een balkon.
 - **Tuin**: Aanwezigheid van een tuin.
-- **Omschrijving tuin**: Voortuin, achteruin, enzovoorts.
+- **Omschrijving tuin (optioneel)**: Voortuin, achteruin, enzovoorts.
 - **Energie label**: Energielabel van de woning.
-- **Opslag**: Soort opslag beschikbaar in de woning.
+- **Opslag (optioneel)**: Soort opslag beschikbaar in de woning.
 - **Parkeren**: Aanwezigheid van parkeerplaatsen.
 - **Type parkeerplaats**: Soort parkeergelegenheden.
 - **Garage**: Aanwezigheid van een garage.
 - **Beschrijving**: Woningbeschrijving.
-
-## Verbeteringen
-
-- **Error handling**: Pagina's die niet kunnen worden geladen of resulteren in time-outs beter afhandelen.
-- **Parallel verwerking**: Het scrapen kan worden versneld door het parallel uitvoeren van de gegevensverzameling via meerdere threads.
+- **Tuin m²**: Oppervlakte van de tuin, indien beschikbaar.
+- **Buurt**: Buurt waarin de woning staat.
+- **Stad**: Stad waarin de woning staat.
+- **Gemiddelde WOZ**: Gemiddelde WOZ waarde voor de buurt in 2023.
+- **Punten oppervlakte**: Aantal punten toegekend voor de oppervlakte (zie 2.1 in `analysis.ipynb`).
+- **Punten verwarming**: Aantal punten toegekend voor verwarming van de woning (zie 2.2 in `analysis.ipynb`).
+- **Punten sanitair**: Aantal punten toegekend voor sanitair in de woning (zie 2.3 in `analysis.ipynb`).
+- **Punten buitenruimten**: Aantal punten toegekend voor buitenruimten van de woning (zie 2.4 in `analysis.ipynb`).
+- **Punten energie**: Aantal punten toegekend voor energieprestatie van de woning (zie 2.5 in `analysis.ipynb`).
+- **Punten parkeerruimten**: Aantal punten toegekend voor privé parkeerruimten (zie 2.6 in `analysis.ipynb`).
+- **Punten keuken**: Aantal punten toegekend voor de keuken (zie 2.7 in `analysis.ipynb`).
+- **Punten WOZ**: Aantal punten toegekend voor de WOZ-waarde, berekend zonder enige beperkingen/uitzonderingen (zie 2.8 in `analysis.ipynb`). 
+- **COROP**: Geeft aan of de woning zich in een COROP-gebied bevindt, een bouwjaar tussen 2018 - 2022 heeft en een oppervlakte kleiner dan 40 m² heeft.
+- **Punten**: Benadering van het totale aantal punten van de woning.
+- **Punten WOZ max**: Aantal punten toegekend voor de WOZ-waarde, berekend met de alle beperkingen en uitzonderingen toegepast (zie 2.8 in `analysis.ipynb`).
+- **Punten zonder CAP**: Benadering van het totale aantal punten, zonder enige berperkingen/uitzonderingen voor het aantal punten van de WOZ-waarde.
