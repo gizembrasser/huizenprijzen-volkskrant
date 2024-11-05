@@ -56,15 +56,11 @@ Er zijn twee beschikbare opdrachten die je via de command line kunt uitvoeren:
 
    - `csv_file`: Pad naar het CSV-bestand met een `Link`-kolom.
 
-## Analyse
+### Analyse
 
 In het bestand `analysis.ipynb` wordt het ruwe CSV bestand ingeladen, omgezet als DataFrame en vervolgens opgeschoond. Verschillende filters worden toegepast op de data om visualisaties te maken.
 
-Voor de analyse wordt van elke huurwoning een schatting gemaakt van de puntentelling op basis van het woningwaarderingstelsel. 
-
-## Verzamelde gegevens
-
-Het resultaat is een CSV bestand met de volgende kolommen:
+Voor de analyse wordt van elke huurwoning een schatting gemaakt van de puntentelling op basis van het woningwaarderingstelsel. Het resultaat is een CSV bestand met de volgende kolommen:
 
 - **Link**: URL van de woningadvertentie.
 - **Huurprijs**: De huurprijs.
