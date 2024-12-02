@@ -1,4 +1,4 @@
-# Pararius huurwoning scraper
+# Onderzoek naar huuraanbod Pararius
 
 Dit project is een web scraper die huurwoningadvertenties verzamelt van de [Pararius](https://www.pararius.com/apartments/nederland) website, een van de grootste platforms voor huurwoningen in Nederland. De scraper haalt gegevens op zoals huurprijs, locatie, oppervlakte (in vierkante meters), aantal kamers, interieur en extra functies zoals balkon, tuin, energielabel, en meer. 
 
