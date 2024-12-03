@@ -6,7 +6,7 @@ Op basis van deze gegevens wordt een analyse gemaakt van de puntentelling van de
 
 ## Vereisten
 
-Voor het web scrapen zijn Python 3.x and Chrome Webdriver (beheerd met `webdriver_manager`) nodig. De volgende Python-pakketten zijn nodig:
+Voor het web scrapen zijn Python 3.x and Chrome WebDriver (beheerd met `webdriver_manager`) nodig. De volgende Python-pakketten zijn nodig:
 - `selenium_wire`
 - `webdriver_manager`
 - `pandas` (voor de analyse)
@@ -17,6 +17,8 @@ Je kunt de vereiste pakketten installeren met `pip`:
 ```bash
 pip install -r requirements.txt
 ```
+
+*Opmerking: als de Chrome WebDriver niet werkt is het misschien nodig om een [versie te downloaden](https://developer.chrome.com/docs/chromedriver/downloads#chromedriver_1140573590) passend bij jouw versie van Google Chrome. In dat geval moet je het bestand `chromedriver.exe` in de `driver/` folder vervangen met de juiste versie.*
 
 ## Installatie
 
@@ -43,11 +45,12 @@ Er zijn twee beschikbare opdrachten die je via de command line kunt uitvoeren:
    Om de links van alle Pararius-huurwoningadvertenties te verzamelen en vervolgens de informatie voor elke woning op te slaan als CSV-bestand, gebruik je het `collect_listings` commando:
 
    ```bash
-   python main.py collect_listings --city --min_price --max_price
+   python main.py collect_listings --city --min_price --max_price --csv_file_name
    ```
 
    - `city`: De stad waarvoor je advertenties wilt verzamelen. De standaardwaarde is 'nederland'.
    - `min_price` en `max_price`: Optionele filters voor de huurprijzen. 
+   - `csv_file_name`: De naam voor het CSV bestand waarin je de data wilt opslaan (met extensie).
 
 2. **HTML-bestanden lokaal opslaan**  
    Om de HTML-bestanden van elke woningadvertentie lokaal op te slaan, gebruik je het `save_html` commando. Zorg ervoor dat de CSV een kolom `Link` bevat die naar de advertentielinks verwijst:

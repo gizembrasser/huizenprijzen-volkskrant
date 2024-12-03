@@ -27,6 +27,10 @@ def main():
         "--max_price", type=int, default=None,
         help="Specify the maximum price filter for the rental listings."
     )
+    collect_parser.add_argument(
+        "--csv_file_name", type=str, default="pararius_listings.csv",
+        help="Specify the name of the CSV file to save the collected data. Default is 'pararius_listings.csv'."
+    )
 
     # Subcommand to locally save the listings as HTML files
     save_html_parser = subparsers.add_parser("save_html", help="Save HTML pages from a CSV file.")
@@ -51,7 +55,7 @@ def main():
             base_url += f"/{min_price}-{max_price}"
 
         links_file_path = os.path.join(data_folder, 'pararius_links.txt')
-        csv_file_path = os.path.join(data_folder, 'pararius_listings02112024.csv')
+        csv_file_path = os.path.join(data_folder, args.csv_file_name)
 
         driver.get(base_url)
 
